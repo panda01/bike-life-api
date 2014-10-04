@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>NYC DOT Sheltered Bicycle Parking Locations</name>
+  <description><![CDATA[NYC DOT, in coordination with our Coordinated Street Furniture vendor, Cemusa, has installed bicycle parking shelters around the City. Each shelter contains stainless steel bike racks for eight bikes. The design closely resembles the award-winning Bus Shelter, using the same high-quality materials. Panels on the shelters display the annual <a href="bikemaps.shtml">NYC Cycling Map</a> and other bicycle promotional materials. For more information visit www.nyc.gov/dot or call 311.]]></description>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Jackson Avenue and 50 Avenue, Queens</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.952728,40.742458,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>East 17 Street and Broadway, Manhattan</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.990341,40.736950,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>East Kingsbridge Road and Briggs Avenue, Bronx</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.894196,40.863060,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dekalb Avenue and Flatbush Avenue, Brooklyn</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.981400,40.689873,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>West 23 Street and 6 Avenue, Manhattan</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.992767,40.742790,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Grand Concourse and East Tremont Avenue, Bronx</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.906067,40.849636,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>31 Street and 30 Avenue, Queens</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.921471,40.766827,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Graham Avenue and Metropolitan Avenue, Brooklyn</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.944450,40.714535,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lefferts Boulevard and Liberty Avenue, Queens</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.824081,40.686161,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>4 Avenue and 36 Street, Brooklyn</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-74.004272,40.654236,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kings Highway and East 15 Street, Brooklyn</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.958260,40.608791,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>West 33 Street and 8 Avenue, Manhattan</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.993942,40.751404,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>West 23 Street and 8 Avenue, Manhattan</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.998398,40.745289,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Surf Avenue and Stillwell Avenue, Brooklyn</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.981148,40.575638,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rutgers Street and East Broadway, Manhattan</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.990273,40.713943,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dyckman Street and Broadway, Manhattan</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.927322,40.865528,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>71 Avenue and Austin Street, Forest Hills, Queens</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-73.844688,40.720097,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Eltingville Transit Center, Staten Island</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-74.169891,40.560261,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Father Capodanno Boulevard, Staten Island</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-74.066162,40.59052,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
