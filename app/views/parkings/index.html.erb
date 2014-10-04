@@ -7,6 +7,9 @@
       <th>Phone</th>
       <th>Israck</th>
       <th>Hours</th>
+      <th>Lat</th>
+      <th>Lng</th>
+      <th>Address</th>
       <th colspan="3"></th>
     </tr>
   </thead>
@@ -18,6 +21,9 @@
         <td><%= parking.phone %></td>
         <td><%= parking.isRack %></td>
         <td><%= parking.hours %></td>
+        <td><%= parking.Lat %></td>
+        <td><%= parking.Lng %></td>
+        <td><%= parking.Address %></td>
         <td><%= link_to 'Show', parking %></td>
         <td><%= link_to 'Edit', edit_parking_path(parking) %></td>
         <td><%= link_to 'Destroy', parking, method: :delete, data: { confirm: 'Are you sure?' } %></td>
