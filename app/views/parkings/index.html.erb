@@ -6,6 +6,7 @@
       <th>Name</th>
       <th>Phone</th>
       <th>Israck</th>
+      <th>Racks</th>
       <th>Hours</th>
       <th>Lat</th>
       <th>Lng</th>
@@ -20,10 +21,11 @@
         <td><%= parking.name %></td>
         <td><%= parking.phone %></td>
         <td><%= parking.isRack %></td>
+        <td><%= parking.racks%></td>
         <td><%= parking.hours %></td>
-        <td><%= parking.Lat %></td>
-        <td><%= parking.Lng %></td>
-        <td><%= parking.Address %></td>
+        <td><%= parking.latitude %></td>
+        <td><%= parking.longitude %></td>
+        <td><%= parking.address %></td>
         <td><%= link_to 'Show', parking %></td>
         <td><%= link_to 'Edit', edit_parking_path(parking) %></td>
         <td><%= link_to 'Destroy', parking, method: :delete, data: { confirm: 'Are you sure?' } %></td>

@@ -1,135 +1,135 @@
 [
   {
     "name": "Jackson Avenue and 50 Avenue, Queens",
-    "Address": "Jackson Avenue and 50 Avenue, Queens, NY",
+    "address": "Jackson Avenue and 50 Avenue, Queens, NY",
     "isRack": false,
-    "Lat": -73.952728,
-    "Lng": 40.742458
+    "latitude": -73.952728,
+    "longitude": 40.742458
   },
   {
     "name": "East 17 Street and Broadway, Manhattan",
-    "Address": "East 17 Street and Broadway, Manhattan, NY",
+    "address": "East 17 Street and Broadway, Manhattan, NY",
     "isRack": false,
-    "Lat": -73.990341,
-    "Lng": 40.73695
+    "latitude": -73.990341,
+    "longitude": 40.73695
   },
   {
     "name": "East Kingsbridge Road and Briggs Avenue, Bronx",
-    "Address": "East Kingsbridge Road and Briggs Avenue, Bronx, NY",
+    "address": "East Kingsbridge Road and Briggs Avenue, Bronx, NY",
     "isRack": false,
-    "Lat": -73.894196,
-    "Lng": 40.86306
+    "latitude": -73.894196,
+    "longitude": 40.86306
   },
   {
     "name": "Dekalb Avenue and Flatbush Avenue, Brooklyn",
-    "Address": "Dekalb Avenue and Flatbush Avenue, Brooklyn, NY",
+    "address": "Dekalb Avenue and Flatbush Avenue, Brooklyn, NY",
     "isRack": false,
-    "Lat": -73.9814,
-    "Lng": 40.689873
+    "latitude": -73.9814,
+    "longitude": 40.689873
   },
   {
     "name": "West 23 Street and 6 Avenue, Manhattan",
-    "Address": "West 23 Street and 6 Avenue, Manhattan, NY",
+    "address": "West 23 Street and 6 Avenue, Manhattan, NY",
     "isRack": false,
-    "Lat": -73.992767,
-    "Lng": 40.74279
+    "latitude": -73.992767,
+    "longitude": 40.74279
   },
   {
     "name": "Grand Concourse and East Tremont Avenue, Bronx",
-    "Address": "Grand Concourse and East Tremont Avenue, Bronx, NY",
+    "address": "Grand Concourse and East Tremont Avenue, Bronx, NY",
     "isRack": false,
-    "Lat": -73.906067,
-    "Lng": 40.849636
+    "latitude": -73.906067,
+    "longitude": 40.849636
   },
   {
     "name": "31 Street and 30 Avenue, Queens",
-    "Address": "31 Street and 30 Avenue, Queens, NY",
+    "address": "31 Street and 30 Avenue, Queens, NY",
     "isRack": false,
-    "Lat": -73.921471,
-    "Lng": 40.766827
+    "latitude": -73.921471,
+    "longitude": 40.766827
   },
   {
     "name": "Graham Avenue and Metropolitan Avenue, Brooklyn",
-    "Address": "Graham Avenue and Metropolitan Avenue, Brooklyn, NY",
+    "address": "Graham Avenue and Metropolitan Avenue, Brooklyn, NY",
     "isRack": false,
-    "Lat": -73.94445,
-    "Lng": 40.714535
+    "latitude": -73.94445,
+    "longitude": 40.714535
   },
   {
     "name": "Lefferts Boulevard and Liberty Avenue, Queens",
-    "Address": "Lefferts Boulevard and Liberty Avenue, Queens, NY",
+    "address": "Lefferts Boulevard and Liberty Avenue, Queens, NY",
     "isRack": false,
-    "Lat": -73.824081,
-    "Lng": 40.686161
+    "latitude": -73.824081,
+    "longitude": 40.686161
   },
   {
     "name": "4 Avenue and 36 Street, Brooklyn",
-    "Address": "4 Avenue and 36 Street, Brooklyn, NY",
+    "address": "4 Avenue and 36 Street, Brooklyn, NY",
     "isRack": false,
-    "Lat": -74.004272,
-    "Lng": 40.654236
+    "latitude": -74.004272,
+    "longitude": 40.654236
   },
   {
     "name": "Kings Highway and East 15 Street, Brooklyn",
-    "Address": "Kings Highway and East 15 Street, Brooklyn, NY",
+    "address": "Kings Highway and East 15 Street, Brooklyn, NY",
     "isRack": false,
-    "Lat": -73.95826,
-    "Lng": 40.608791
+    "latitude": -73.95826,
+    "longitude": 40.608791
   },
   {
     "name": "West 33 Street and 8 Avenue, Manhattan",
-    "Address": "West 33 Street and 8 Avenue, Manhattan, NY",
+    "address": "West 33 Street and 8 Avenue, Manhattan, NY",
     "isRack": false,
-    "Lat": -73.993942,
-    "Lng": 40.751404
+    "latitude": -73.993942,
+    "longitude": 40.751404
   },
   {
     "name": "West 23 Street and 8 Avenue, Manhattan",
-    "Address": "West 23 Street and 8 Avenue, Manhattan, NY",
+    "address": "West 23 Street and 8 Avenue, Manhattan, NY",
     "isRack": false,
-    "Lat": -73.998398,
-    "Lng": 40.745289
+    "latitude": -73.998398,
+    "longitude": 40.745289
   },
   {
     "name": "Surf Avenue and Stillwell Avenue, Brooklyn",
-    "Address": "Surf Avenue and Stillwell Avenue, Brooklyn, NY",
+    "address": "Surf Avenue and Stillwell Avenue, Brooklyn, NY",
     "isRack": false,
-    "Lat": -73.981148,
-    "Lng": 40.575638
+    "latitude": -73.981148,
+    "longitude": 40.575638
   },
   {
     "name": "Rutgers Street and East Broadway, Manhattan",
-    "Address": "Rutgers Street and East Broadway, Manhattan, NY",
+    "address": "Rutgers Street and East Broadway, Manhattan, NY",
     "isRack": false,
-    "Lat": -73.990273,
-    "Lng": 40.713943
+    "latitude": -73.990273,
+    "longitude": 40.713943
   },
   {
     "name": "Dyckman Street and Broadway, Manhattan",
-    "Address": "Dyckman Street and Broadway, Manhattan, NY",
+    "address": "Dyckman Street and Broadway, Manhattan, NY",
     "isRack": false,
-    "Lat": -73.927322,
-    "Lng": 40.865528
+    "latitude": -73.927322,
+    "longitude": 40.865528
   },
   {
     "name": "71 Avenue and Austin Street, Forest Hills, Queens",
-    "Address": "71 Avenue and Austin Street, Forest Hills, Queens, NY",
+    "address": "71 Avenue and Austin Street, Forest Hills, Queens, NY",
     "isRack": false,
-    "Lat": -73.844688,
-    "Lng": 40.720097
+    "latitude": -73.844688,
+    "longitude": 40.720097
   },
   {
     "name": "Eltingville Transit Center, Staten Island",
-    "Address": "Eltingville Transit Center, Staten Island, NY",
+    "address": "Eltingville Transit Center, Staten Island, NY",
     "isRack": false,
-    "Lat": -74.169891,
-    "Lng": 40.560261
+    "latitude": -74.169891,
+    "longitude": 40.560261
   },
   {
     "name": "Father Capodanno Boulevard, Staten Island",
-    "Address": "Father Capodanno Boulevard, Staten Island, NY",
+    "address": "Father Capodanno Boulevard, Staten Island, NY",
     "isRack": false,
-    "Lat": -74.066162,
-    "Lng": 40.59052
+    "latitude": -74.066162,
+    "longitude": 40.59052
   }
 ]
