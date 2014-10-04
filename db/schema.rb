@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141004152845) do
+ActiveRecord::Schema.define(version: 20141004145826) do
 
   create_table "parkings", force: true do |t|
     t.string   "name"
@@ -20,12 +20,6 @@ ActiveRecord::Schema.define(version: 20141004152845) do
     t.string   "hours"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.decimal  "Lat"
-    t.decimal  "Lng"
-    t.string   "Address"
   end
-
-  add_index "parkings", ["Lat"], name: "index_parkings_on_Lat"
-  add_index "parkings", ["Lng"], name: "index_parkings_on_Lng"
 
 end
