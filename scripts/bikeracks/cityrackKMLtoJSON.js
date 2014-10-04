@@ -6,19 +6,19 @@ var file = fs.readFileSync('2013-cityracks.kml');
 parseString(file, function (err, result) {
       var parsed = _.map(result.kml.Document[0].Placemark, function(pl) {
         var data = {
-          name: pl.name,
-          address: pl.address,
-          racks: pl.ExtendedData[0].Data[0].value
+          name: pl.name[0],
+          Address: pl.address[0],
+          isRack: true 
         };
         var geo = pl.Point;
         if (pl.Point && pl.Point[0]) {
           var latlng = pl.Point[0].coordinates[0].split(',');
-          data.geo = {
-            lat: latlng[0],
-            lng: latlng[1]
-          };
+          data.Lat = parseFloat(latlng[0]);
+          data.Lng = parseFloat(latlng[1]);
         }
+        var racks = pl.ExtendedData[0].Data[0].value[0].split(' ');
+        data.racks = parseInt(racks[0]);
         return data;
       });
-      fs.writeFileSync('cityracks_full.json', JSON.stringify(parsed, undefined, 2));
+      fs.writeFileSync('racks.json', JSON.stringify(parsed, undefined, 2));
 });

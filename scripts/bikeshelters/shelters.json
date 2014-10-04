@@ -1,154 +1,135 @@
 [
   {
     "name": "Jackson Avenue and 50 Avenue, Queens",
-    "address": "Jackson Avenue and 50 Avenue, Queens, NY",
-    "geo": {
-      "lat": "-73.952728",
-      "lng": "40.742458"
-    }
+    "Address": "Jackson Avenue and 50 Avenue, Queens, NY",
+    "isRack": false,
+    "Lat": -73.952728,
+    "Lng": 40.742458
   },
   {
     "name": "East 17 Street and Broadway, Manhattan",
-    "address": "East 17 Street and Broadway, Manhattan, NY",
-    "geo": {
-      "lat": "-73.990341",
-      "lng": "40.736950"
-    }
+    "Address": "East 17 Street and Broadway, Manhattan, NY",
+    "isRack": false,
+    "Lat": -73.990341,
+    "Lng": 40.73695
   },
   {
     "name": "East Kingsbridge Road and Briggs Avenue, Bronx",
-    "address": "East Kingsbridge Road and Briggs Avenue, Bronx, NY",
-    "geo": {
-      "lat": "-73.894196",
-      "lng": "40.863060"
-    }
+    "Address": "East Kingsbridge Road and Briggs Avenue, Bronx, NY",
+    "isRack": false,
+    "Lat": -73.894196,
+    "Lng": 40.86306
   },
   {
     "name": "Dekalb Avenue and Flatbush Avenue, Brooklyn",
-    "address": "Dekalb Avenue and Flatbush Avenue, Brooklyn, NY",
-    "geo": {
-      "lat": "-73.981400",
-      "lng": "40.689873"
-    }
+    "Address": "Dekalb Avenue and Flatbush Avenue, Brooklyn, NY",
+    "isRack": false,
+    "Lat": -73.9814,
+    "Lng": 40.689873
   },
   {
     "name": "West 23 Street and 6 Avenue, Manhattan",
-    "address": "West 23 Street and 6 Avenue, Manhattan, NY",
-    "geo": {
-      "lat": "-73.992767",
-      "lng": "40.742790"
-    }
+    "Address": "West 23 Street and 6 Avenue, Manhattan, NY",
+    "isRack": false,
+    "Lat": -73.992767,
+    "Lng": 40.74279
   },
   {
     "name": "Grand Concourse and East Tremont Avenue, Bronx",
-    "address": "Grand Concourse and East Tremont Avenue, Bronx, NY",
-    "geo": {
-      "lat": "-73.906067",
-      "lng": "40.849636"
-    }
+    "Address": "Grand Concourse and East Tremont Avenue, Bronx, NY",
+    "isRack": false,
+    "Lat": -73.906067,
+    "Lng": 40.849636
   },
   {
     "name": "31 Street and 30 Avenue, Queens",
-    "address": "31 Street and 30 Avenue, Queens, NY",
-    "geo": {
-      "lat": "-73.921471",
-      "lng": "40.766827"
-    }
+    "Address": "31 Street and 30 Avenue, Queens, NY",
+    "isRack": false,
+    "Lat": -73.921471,
+    "Lng": 40.766827
   },
   {
     "name": "Graham Avenue and Metropolitan Avenue, Brooklyn",
-    "address": "Graham Avenue and Metropolitan Avenue, Brooklyn, NY",
-    "geo": {
-      "lat": "-73.944450",
-      "lng": "40.714535"
-    }
+    "Address": "Graham Avenue and Metropolitan Avenue, Brooklyn, NY",
+    "isRack": false,
+    "Lat": -73.94445,
+    "Lng": 40.714535
   },
   {
     "name": "Lefferts Boulevard and Liberty Avenue, Queens",
-    "address": "Lefferts Boulevard and Liberty Avenue, Queens, NY",
-    "geo": {
-      "lat": "-73.824081",
-      "lng": "40.686161"
-    }
+    "Address": "Lefferts Boulevard and Liberty Avenue, Queens, NY",
+    "isRack": false,
+    "Lat": -73.824081,
+    "Lng": 40.686161
   },
   {
     "name": "4 Avenue and 36 Street, Brooklyn",
-    "address": "4 Avenue and 36 Street, Brooklyn, NY",
-    "geo": {
-      "lat": "-74.004272",
-      "lng": "40.654236"
-    }
+    "Address": "4 Avenue and 36 Street, Brooklyn, NY",
+    "isRack": false,
+    "Lat": -74.004272,
+    "Lng": 40.654236
   },
   {
     "name": "Kings Highway and East 15 Street, Brooklyn",
-    "address": "Kings Highway and East 15 Street, Brooklyn, NY",
-    "geo": {
-      "lat": "-73.958260",
-      "lng": "40.608791"
-    }
+    "Address": "Kings Highway and East 15 Street, Brooklyn, NY",
+    "isRack": false,
+    "Lat": -73.95826,
+    "Lng": 40.608791
   },
   {
     "name": "West 33 Street and 8 Avenue, Manhattan",
-    "address": "West 33 Street and 8 Avenue, Manhattan, NY",
-    "geo": {
-      "lat": "-73.993942",
-      "lng": "40.751404"
-    }
+    "Address": "West 33 Street and 8 Avenue, Manhattan, NY",
+    "isRack": false,
+    "Lat": -73.993942,
+    "Lng": 40.751404
   },
   {
     "name": "West 23 Street and 8 Avenue, Manhattan",
-    "address": "West 23 Street and 8 Avenue, Manhattan, NY",
-    "geo": {
-      "lat": "-73.998398",
-      "lng": "40.745289"
-    }
+    "Address": "West 23 Street and 8 Avenue, Manhattan, NY",
+    "isRack": false,
+    "Lat": -73.998398,
+    "Lng": 40.745289
   },
   {
     "name": "Surf Avenue and Stillwell Avenue, Brooklyn",
-    "address": "Surf Avenue and Stillwell Avenue, Brooklyn, NY",
-    "geo": {
-      "lat": "-73.981148",
-      "lng": "40.575638"
-    }
+    "Address": "Surf Avenue and Stillwell Avenue, Brooklyn, NY",
+    "isRack": false,
+    "Lat": -73.981148,
+    "Lng": 40.575638
   },
   {
     "name": "Rutgers Street and East Broadway, Manhattan",
-    "address": "Rutgers Street and East Broadway, Manhattan, NY",
-    "geo": {
-      "lat": "-73.990273",
-      "lng": "40.713943"
-    }
+    "Address": "Rutgers Street and East Broadway, Manhattan, NY",
+    "isRack": false,
+    "Lat": -73.990273,
+    "Lng": 40.713943
   },
   {
     "name": "Dyckman Street and Broadway, Manhattan",
-    "address": "Dyckman Street and Broadway, Manhattan, NY",
-    "geo": {
-      "lat": "-73.927322",
-      "lng": "40.865528"
-    }
+    "Address": "Dyckman Street and Broadway, Manhattan, NY",
+    "isRack": false,
+    "Lat": -73.927322,
+    "Lng": 40.865528
   },
   {
     "name": "71 Avenue and Austin Street, Forest Hills, Queens",
-    "address": "71 Avenue and Austin Street, Forest Hills, Queens, NY",
-    "geo": {
-      "lat": "-73.844688",
-      "lng": "40.720097"
-    }
+    "Address": "71 Avenue and Austin Street, Forest Hills, Queens, NY",
+    "isRack": false,
+    "Lat": -73.844688,
+    "Lng": 40.720097
   },
   {
     "name": "Eltingville Transit Center, Staten Island",
-    "address": "Eltingville Transit Center, Staten Island, NY",
-    "geo": {
-      "lat": "-74.169891",
-      "lng": "40.560261"
-    }
+    "Address": "Eltingville Transit Center, Staten Island, NY",
+    "isRack": false,
+    "Lat": -74.169891,
+    "Lng": 40.560261
   },
   {
     "name": "Father Capodanno Boulevard, Staten Island",
-    "address": "Father Capodanno Boulevard, Staten Island, NY",
-    "geo": {
-      "lat": "-74.066162",
-      "lng": "40.59052"
-    }
+    "Address": "Father Capodanno Boulevard, Staten Island, NY",
+    "isRack": false,
+    "Lat": -74.066162,
+    "Lng": 40.59052
   }
 ]
