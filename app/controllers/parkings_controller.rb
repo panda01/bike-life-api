@@ -21,6 +21,17 @@ class ParkingsController < ApplicationController
   def edit
   end
 
+  # GET /parkings/geo/40.71/100.23
+  def geo
+    ne_a = params[:ne].split(',')
+    ne = {:lat => ne_a[0], :lng => ne_a[1]}
+
+    sw_a = params[:sw].split(',')
+    sw = {:lat => sw_a[0], :lng => sw_a[1]}
+
+    @parkings = Parking.where(:latitude => sw[:lat]..ne[:lat], :longitude => sw[:lng]..ne[:lng])
+  end
+
   # POST /parkings
   # POST /parkings.json
   def create

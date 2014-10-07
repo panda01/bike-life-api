@@ -1,0 +1,17 @@
+<h1>Nearby Parking</h1>
+<h3>Items found: <%= @parkings.count %></h3> 
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Lat</th>
+    <th>Lng</th>
+  </tr>
+ 
+  <% @parkings.each do |park| %>
+    <tr>
+      <td><%= park.name %></td>
+      <td><%= park.latitude %></td>
+      <td><%= park.longitude %></td>
+    </tr>
+  <% end %>
+</table>

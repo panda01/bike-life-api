@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+
+  get 'parkings/geo' => 'parkings#geo'
   resources :parkings
 
   # The priority is based upon order of creation: first created -> highest priority.
