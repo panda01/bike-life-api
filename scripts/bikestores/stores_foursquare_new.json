@@ -1,0 +1,2324 @@
+[
+  {
+    "name": "B-Fold Bicycles",
+    "address": "224 E 13th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon, Wed, Thu, Fri, Sat 12-6, Closed Sun and Tue",
+    "website": "http://www.bfold.com/",
+    "latitude": -73.9871,
+    "longitude": 40.7322,
+    "foursquare": {
+      "id": "4a3014baf964a52012991fe3",
+      "name": "bfold"
+    }
+  },
+  {
+    "name": "Gotham Bikes Dwntn (Toga Bikes)",
+    "address": "101 Reade St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "M-W 10-6:30, Thu 10-7:30, Fri 10:6:30, Sat 10-6:30, Sun 10:30-5",
+    "website": "http://togabikes.com/",
+    "latitude": -74.00877,
+    "longitude": 40.716352,
+    "foursquare": {
+      "id": "4a9ad452f964a520013320e3",
+      "name": "Gotham Bikes"
+    }
+  },
+  {
+    "name": "Robert's Bicycle",
+    "address": "33-13 Francis Lewis Blvd, Bayside, NY",
+    "boro": "Bayside",
+    "storetype": 1,
+    "hours": "Mon, Wed, Fri 10-8, Tue, Thur 10-7, Sat 9:30-6, Sun 11:30-4:30:30",
+    "website": "http://www.robertsbicycles.net",
+    "latitude": -73.789849,
+    "longitude": 40.767097,
+    "foursquare": {
+      "id": "4bc63ce9b387d13a7a8bc1e8",
+      "name": "Robert's Bicycle"
+    }
+  },
+  {
+    "name": "Trackstar",
+    "address": "231 Eldridge Street, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Fri 10-7, Sat 12-7, Closed Sunday",
+    "website": "http://www.trackstarnyc.com/shop/",
+    "latitude": -73.990089,
+    "longitude": 40.722195,
+    "foursquare": {
+      "id": "4a85cea1f964a52054ff1fe3",
+      "name": "Trackstar"
+    }
+  },
+  {
+    "name": "Tread Bike Shop",
+    "address": "250 Dyckman St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Sat 10-7, Sun 10-6",
+    "website": "http://treadbikeshop.com/",
+    "latitude": -73.928456,
+    "longitude": 40.866332,
+    "foursquare": {
+      "id": "4ba4eb06f964a520e6c238e3",
+      "name": "Tread Bike Shop"
+    }
+  },
+  {
+    "name": "Verrazano Bicycle Shop",
+    "address": "7308 5th Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "M-Sat 10-7, Sun 11-5",
+    "website": "http://verrazanocycles.com/",
+    "latitude": -74.022193,
+    "longitude": 40.630886,
+    "foursquare": {
+      "id": "4b4c12d9f964a520f1ad26e3",
+      "name": "Verrazano Bicycle Shop"
+    }
+  },
+  {
+    "name": "Victor's Bike Repair",
+    "address": "4125 Broadway, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Sun-Fri 10-8, Sat 10-9",
+    "website": "",
+    "latitude": -73.938761,
+    "longitude": 40.845733,
+    "foursquare": {
+      "id": "51898c62498e369a48c8fb06",
+      "name": "Victor's Bike Repair"
+    }
+  },
+  {
+    "name": "Weber's Bicycles",
+    "address": "4715 New Utrecht Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Sun-Thu 10:30-7, Fri 10:30-2:30, Closed Sat",
+    "website": "",
+    "latitude": -73.994384,
+    "longitude": 40.638103,
+    "foursquare": {
+      "id": "4e44301bd22de4060ef2acf0",
+      "name": "Weber's"
+    }
+  },
+  {
+    "name": "Westchester Bicycle Pro Shop",
+    "address": "2611 Westchester Ave, Bronx, NY",
+    "boro": "Bronx",
+    "storetype": 1,
+    "hours": "M-F 10-7, Sat 10-6, Sun 10-4",
+    "website": "http://westchesterpro.com",
+    "latitude": -73.840996,
+    "longitude": 40.841337,
+    "foursquare": {
+      "id": "4bbb8331ed7776b065893e51",
+      "name": "Westchester Bicycle Pro Shop"
+    }
+  },
+  {
+    "name": "Liberty Bicycles",
+    "address": "846 9th Avenue, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Everyday 9:30-7",
+    "website": "",
+    "latitude": -73.986376,
+    "longitude": 40.76673,
+    "foursquare": {
+      "id": "4b2963ebf964a5200c9e24e3",
+      "name": "Liberty Bicycles"
+    }
+  },
+  {
+    "name": "Manhattan Bicycles",
+    "address": "791 9th Avenue, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Everyday 10-7",
+    "website": "",
+    "latitude": -73.987943,
+    "longitude": 40.765139,
+    "foursquare": {
+      "id": "4c082510a1b32d7f2c8f95f0",
+      "name": "Manhattan Bicycles"
+    }
+  },
+  {
+    "name": "Manhattan Velo",
+    "address": "141 E 17th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Everyday 10-7",
+    "website": "http://www.manhattanvelo.com/",
+    "latitude": -73.986823,
+    "longitude": 40.735797,
+    "foursquare": {
+      "id": "4a708af1f964a520bfd71fe3",
+      "name": "Manhattan Velo"
+    }
+  },
+  {
+    "name": "Mani's Bicycle Shop",
+    "address": "8 Bennett Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Fri 10-7:30, Sat 10-7, Sun 11-6",
+    "website": "",
+    "latitude": -73.936663,
+    "longitude": 40.850861,
+    "foursquare": {
+      "id": "4e3d917dfa76455375b9e7b7",
+      "name": "Mani's Bike Shop"
+    }
+  },
+  {
+    "name": "Metro Bicycles",
+    "address": "1311 Lexington Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Sat 9:30-6:30, Sun 9:30-6",
+    "website": "http://www.metrobicycles.com/",
+    "latitude": -73.954488,
+    "longitude": 40.780845,
+    "foursquare": {
+      "id": "532e15ce498e3904f5cd9466",
+      "name": "Metro Bicycles"
+    }
+  },
+  {
+    "name": "Midtown Metro Bicycles",
+    "address": "360 W 47th, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Fri 9:30-6:30, Sat 9:30-6, Sun 10-6",
+    "website": "http://www.metrobicycles.com/",
+    "latitude": -73.989225,
+    "longitude": 40.760998,
+    "foursquare": {
+      "id": "3fd66200f964a52094e81ee3",
+      "name": "Metro Bicycles - Hell's Kitchen"
+    }
+  },
+  {
+    "name": "Modsquad Cycles",
+    "address": "2119 Frederick Douglas Boulevard, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Tue-Fri 10-7, Sat 10-6, Sun 12-5, Closed Mon",
+    "website": "http://www.modsquadcycles.com",
+    "latitude": -73.956244,
+    "longitude": 40.803496,
+    "foursquare": {
+      "id": "4ab92bc4f964a520557e20e3",
+      "name": "MODSquad Cycles"
+    }
+  },
+  {
+    "name": "Mr. C's Cycles",
+    "address": "4622 7th Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "M, W, Thu, Fri 10-7, Closed Tue, Sat 10-6, Sun 10-5",
+    "website": "http://www.mrccycles.com/",
+    "latitude": -74.003883,
+    "longitude": 40.644594,
+    "foursquare": {
+      "id": "4bf7ff695ec320a153de87d3",
+      "name": "Mr. C's Cycles"
+    }
+  },
+  {
+    "name": "Neighborhood Cycle, Inc.",
+    "address": "571 Courtlandt Avenue, Bronx, NY",
+    "boro": "Bronx",
+    "storetype": 1,
+    "hours": "Everyday 9-7",
+    "website": "http://neighborhoodcycle.com",
+    "latitude": -73.91942,
+    "longitude": 40.817135,
+    "foursquare": {
+      "id": "4d03abeb37036dcb01900bfb",
+      "name": "Neighborhood Bicycle"
+    }
+  },
+  {
+    "name": "Nelson's Bicycle Shop",
+    "address": "251 Bushwick Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Mon-Sat 11-7, Closed Sunday",
+    "website": "",
+    "latitude": -73.939615,
+    "longitude": 40.707365,
+    "foursquare": {
+      "id": "4b2401b8f964a520f25e24e3",
+      "name": "Nelson's Bicycle Shop"
+    }
+  },
+  {
+    "name": "Gray's Bicycle",
+    "address": "8234 Lefferts Blvd, Queens, NY",
+    "boro": "Queens",
+    "storetype": 3,
+    "hours": "Tue-Sat 10:30-6:30, Sun 10-5, Closed Mon",
+    "website": "",
+    "latitude": -73.831759,
+    "longitude": 40.70614,
+    "foursquare": {
+      "id": "4ffcf9a7e4b0b713052f1717",
+      "name": "Gray's"
+    }
+  },
+  {
+    "name": "Twin Bicycles",
+    "address": "7520 Metropolitan Ave, Middle Village, NY",
+    "boro": "Middle Village",
+    "storetype": 1,
+    "hours": "Everday 10-8",
+    "website": "",
+    "latitude": -73.87689390000003,
+    "longitude": 40.712727
+  },
+  {
+    "name": "Laurelton Bicycle Shop",
+    "address": "23220 Merrick Blvd, Jamaica, NY",
+    "boro": "Jamaica",
+    "storetype": 1,
+    "hours": "Everyday 11-6",
+    "website": "",
+    "latitude": -73.73717299999998,
+    "longitude": 40.674695,
+    "foursquare": {
+      "id": "4d8ce5b5d265236a09abe516",
+      "name": "Laurelton Cycle"
+    }
+  },
+  {
+    "name": "NYC Bikes",
+    "address": "140 Havemeyer Street, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "M, Tue, Thu, Fri, Sat 11-7, Closed Wed, Sun 11-5",
+    "website": "http://nycbikes.com/",
+    "latitude": -73.957466,
+    "longitude": 40.712008,
+    "foursquare": {
+      "id": "4d94b368af6737047d758209",
+      "name": "NYC Bikes"
+    }
+  },
+  {
+    "name": "NYC Velo",
+    "address": "64 2nd Avenue, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Fri 11-8, Sat-Sun 11-6",
+    "website": "http://www.nycvelo.com/",
+    "latitude": -73.989454,
+    "longitude": 40.725875,
+    "foursquare": {
+      "id": "4a58f57ef964a5204db81fe3",
+      "name": "NYC Velo"
+    }
+  },
+  {
+    "name": "Waterfront Bicycle Shop",
+    "address": "391 West Street, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "",
+    "website": "http://www.bikeshopny.com",
+    "latitude": -74.009963,
+    "longitude": 40.732887,
+    "foursquare": {
+      "id": "4bc0b211f8219c7495fbb110",
+      "name": "Waterfront Bicycle Shop"
+    }
+  },
+  {
+    "name": "On the Move",
+    "address": "400 7th Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "M 11-7, Tue-Fri 12-7, Sat 10-6, Sun 11-5",
+    "website": "http://onthemovenyc.com/",
+    "latitude": -73.983509,
+    "longitude": 40.664823,
+    "foursquare": {
+      "id": "4a2c122cf964a5201a971fe3",
+      "name": "On the Move"
+    }
+  },
+  {
+    "name": "Paragon Sports",
+    "address": "867 Broadway, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Sat 10-8, Sun 11:30-7",
+    "website": "http://www.paragonsports.com/Paragon/Shop",
+    "latitude": -73.990363,
+    "longitude": 40.737583,
+    "foursquare": {
+      "id": "49e34b16f964a5206f621fe3",
+      "name": "Paragon Sports"
+    }
+  },
+  {
+    "name": "Pedal Pusher Bikes",
+    "address": "1306 Second Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Sat-Mon 10-6. Closed Tue, Wed 10-7, Thu 10-8, Fri 10-6",
+    "website": "http://pedalpusherbikeshop.com/",
+    "latitude": -73.95978,
+    "longitude": 40.766585,
+    "foursquare": {
+      "id": "4bb78be953649c74b3d945fb",
+      "name": "Pedal Pusher Bike Shop"
+    }
+  },
+  {
+    "name": "R & A Cycles",
+    "address": "105 5th Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Mon-Fri 10-7, Sat 10-6, Sun 11-5",
+    "website": "http://www.racycles.com/",
+    "latitude": -73.978252,
+    "longitude": 40.679603,
+    "foursquare": {
+      "id": "4a0f6f89f964a52067761fe3",
+      "name": "R&A Cycles"
+    }
+  },
+  {
+    "name": "Recycle-A-Bicycle",
+    "address": "75 Avenue C, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Sat 12-7, Closed Sunday",
+    "website": "http://www.recycleabicycle.org/",
+    "latitude": -73.979739,
+    "longitude": 40.723152,
+    "foursquare": {
+      "id": "4bae513ef964a520e5a13be3",
+      "name": "Recycle-A-Bicycle"
+    }
+  },
+  {
+    "name": "Recycle-A-Bicycle",
+    "address": "35 Pearl Street, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "Mon-Sat 12-7, Closed Sunday",
+    "website": "http://www.recycleabicycle.org/",
+    "latitude": -73.987455,
+    "longitude": 40.70389,
+    "foursquare": {
+      "id": "4a7cc41af964a5208ded1fe3",
+      "name": "Recycle-A-Bicycle"
+    }
+  },
+  {
+    "name": "Roy's Sheepshead Cycle",
+    "address": "2679 Coney Island Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Mon-Thu 10-8, Fri-Sat 10-6, Sun 11-6",
+    "website": "http://roysbikes.com/",
+    "latitude": -73.960511,
+    "longitude": 40.591447,
+    "foursquare": {
+      "id": "4b4c1188f964a520daad26e3",
+      "name": "Roy's Sheepshead Cycle"
+    }
+  },
+  {
+    "name": "Sid's Bikes NYC",
+    "address": "235 E 34th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Fri 10-8, Sat 10-6, Sun 11-5",
+    "website": "http://www.sidsbikes.com/",
+    "latitude": -73.976903,
+    "longitude": 40.745363,
+    "foursquare": {
+      "id": "4b37d029f964a520a74625e3",
+      "name": "Sid's Bikes NYC"
+    }
+  },
+  {
+    "name": "Sid's Bikes NYC",
+    "address": "151 W 19th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Fri 10-8, Sat 10-6, Sun 11-5",
+    "website": "http://www.sidsbikes.com/",
+    "latitude": -73.995945,
+    "longitude": 40.741167,
+    "foursquare": {
+      "id": "4b37d029f964a520a74625e3",
+      "name": "Sid's Bikes NYC"
+    }
+  },
+  {
+    "name": "Spokesman Cycles",
+    "address": "49-04 Vernon Blvd., Queens, NY",
+    "boro": "Queens",
+    "storetype": 3,
+    "hours": "Everday 10-7",
+    "website": "http://www.spokesmancycles.com/",
+    "latitude": -73.954006,
+    "longitude": 40.743345,
+    "foursquare": {
+      "id": "4af6f51df964a5205b0422e3",
+      "name": "Spokesman Cycles"
+    }
+  },
+  {
+    "name": "Terrific's Video and Bikes",
+    "address": "1547 Broadway, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Mon-Sat 10-8, Sun 11-5",
+    "website": "http://terrificbikes.com/",
+    "latitude": -73.916177,
+    "longitude": 40.686319
+  },
+  {
+    "name": "Toga Bikes Westside",
+    "address": "110 West End Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "M-W 11-7, Thu 11-8, Fri 11-7, Sat 10-6, Sun 11-7",
+    "website": "http://togabikes.com/",
+    "latitude": -73.987817,
+    "longitude": 40.774944,
+    "foursquare": {
+      "id": "4af6ea9ff964a5201c0422e3",
+      "name": "Toga Bike Shop"
+    }
+  },
+  {
+    "name": "Tony's Bicycles",
+    "address": "35-01 23rd Ave, Queens, NY",
+    "boro": "Queens",
+    "storetype": 1,
+    "hours": "M-Sat 9:30-7:30, Sun 9:30-6",
+    "website": "http://tonysbicycles.com",
+    "latitude": -73.9111197,
+    "longitude": 40.7730641,
+    "foursquare": {
+      "id": "4bdc70902a3a0f47f1d7b2b6",
+      "name": "Tony's Bicycle"
+    }
+  },
+  {
+    "name": "Bill's Cyclery",
+    "address": "6324 Roosevelt Ave, Queens, NY",
+    "boro": "Queens",
+    "storetype": 1,
+    "hours": "M-Sat 10-8, Sun 11-3",
+    "website": "",
+    "latitude": -73.835109,
+    "longitude": 40.75794,
+    "foursquare": {
+      "id": "4c2a6760b34ad13a6936e8ce",
+      "name": "Bill's Cyclery"
+    }
+  },
+  {
+    "name": "Bravo Bike Repairs",
+    "address": "187 Wilson Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "M, Tue, Thu, Fri, Sat 9:30-7, Closed Wed, Sun 10-6",
+    "website": "",
+    "latitude": -73.923349,
+    "longitude": 40.699518,
+    "foursquare": {
+      "id": "4c3a21cb2c8020a13bdf8d00",
+      "name": "Bravo Bike Repair"
+    }
+  },
+  {
+    "name": "Brooklyn Bicycle Center",
+    "address": "673 Coney Island Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Everyday 10-7",
+    "website": "",
+    "latitude": -73.969097,
+    "longitude": 40.640927,
+    "foursquare": {
+      "id": "4b4c129ff964a520edad26e3",
+      "name": "Brooklyn Bicycle Center"
+    }
+  },
+  {
+    "name": "Brooklyn Heights Bike",
+    "address": "278 Atlantic Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Mon-Sat 10-6, Sun 11-3",
+    "website": "",
+    "latitude": -73.989996,
+    "longitude": 40.688794,
+    "foursquare": {
+      "id": "4ac779d4f964a52076b720e3",
+      "name": "The Brooklyn Heights Bike Shoppe"
+    }
+  },
+  {
+    "name": "B's Bikes",
+    "address": "262 Driggs Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Everyday 12-7",
+    "website": "",
+    "latitude": -73.948297,
+    "longitude": 40.722704,
+    "foursquare": {
+      "id": "49f4b5e6f964a5203b6b1fe3",
+      "name": "B's Bikes"
+    }
+  },
+  {
+    "name": "Buddy's Schwinn Bicycles",
+    "address": "7930 Parsons Blvd, Queens, NY",
+    "boro": "Queens",
+    "storetype": 1,
+    "hours": "M, Tue, Thu, Fri 10-7, Closed Wed, Sat 10-5, Sun 11-4",
+    "website": "",
+    "latitude": -73.826439,
+    "longitude": 40.79541,
+    "foursquare": {
+      "id": "4c700163d274b60c842fd80d",
+      "name": "Schwinn Bicycles"
+    }
+  },
+  {
+    "name": "Busy Bee Bikes",
+    "address": "437 East 6th Street, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Everyday 11:30-8",
+    "website": "",
+    "latitude": -73.985207,
+    "longitude": 40.726155,
+    "foursquare": {
+      "id": "4a99ae91f964a520cb2f20e3",
+      "name": "Busy Bee Bikes"
+    }
+  },
+  {
+    "name": "Castle Hill Bicycle Center",
+    "address": "3467 E Tremont Ave, Bronx, NY",
+    "boro": "Bronx",
+    "storetype": 1,
+    "hours": "M-Sat 10:30-7, Sun 12-5",
+    "website": "",
+    "latitude": -73.827118,
+    "longitude": 40.831974,
+    "foursquare": {
+      "id": "4c161f7a82a3c9b621bffff8",
+      "name": "Castle Hill Health Care Center"
+    }
+  },
+  {
+    "name": "Champion Bicycle",
+    "address": "896 Amsterdam Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Fri 10-7, Sat-Sun 10:30-6",
+    "website": "http://www.championbikes.com/",
+    "latitude": -73.966907,
+    "longitude": 40.799053,
+    "foursquare": {
+      "id": "4bf3193498ac0f47d28162a8",
+      "name": "Champion"
+    }
+  },
+  {
+    "name": "Chelsea Bikes",
+    "address": "130 W 26th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Sat 10-8, Sun 11-7",
+    "website": "http://www.chelseabicycles.net/",
+    "latitude": -73.992497,
+    "longitude": 40.7451,
+    "foursquare": {
+      "id": "4bd8c22711dcc9284aaef733",
+      "name": "Chelsea Bikes"
+    }
+  },
+  {
+    "name": "Conrad's Bike Shop",
+    "address": "25 Tudor City Pl, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Sat 11-7, Closed Sunday",
+    "website": "http://www.conradsbikeshop.com/",
+    "latitude": -73.97063,
+    "longitude": 40.748523,
+    "foursquare": {
+      "id": "4b61d295f964a52035252ae3",
+      "name": "Conrad's Bike Shop"
+    }
+  },
+  {
+    "name": "14th Street Metro Bicycles",
+    "address": "332 E 14th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Sat 9:30-6:30, Sun 9:30-6",
+    "website": "http://www.metrobicycles.com/",
+    "latitude": -73.984167,
+    "longitude": 40.731869,
+    "foursquare": {
+      "id": "4afee7f6f964a520763122e3",
+      "name": "Metro Bicycles - East Village"
+    }
+  },
+  {
+    "name": "Court Cycles",
+    "address": "514 Court St, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "M-F 10-7, Sat 10-6, Sun 11-3",
+    "website": "",
+    "latitude": -73.999023,
+    "longitude": 40.676253,
+    "foursquare": {
+      "id": "50621ce5e4b092ceff74a9e3",
+      "name": "Court Cycles"
+    }
+  },
+  {
+    "name": "Crosstown Bicycles",
+    "address": "33 East 170th St, Bronx, NY",
+    "boro": "Bronx",
+    "storetype": 1,
+    "hours": "M-Sat 10-7, Sun 11-5",
+    "website": "",
+    "latitude": -73.917028,
+    "longitude": 40.84013,
+    "foursquare": {
+      "id": "5217c5ee11d25d8f912e4187",
+      "name": "Bicycles"
+    }
+  },
+  {
+    "name": "Dixon's Bicycle Shop",
+    "address": "792 Union St, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "M-Sat 11-7, Sun 11-6",
+    "website": "",
+    "latitude": -73.976442,
+    "longitude": 40.674695,
+    "foursquare": {
+      "id": "4adb82b0f964a5206a2821e3",
+      "name": "Dixon's Bike Shop"
+    }
+  },
+  {
+    "name": "Eddie's Bicycles Shop",
+    "address": "490 Amsterdam Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "M-F 9-7, Closed Sat, Sun 9:30-6",
+    "website": "http://eddiesbicycles.net/",
+    "latitude": -73.976324,
+    "longitude": 40.786176,
+    "foursquare": {
+      "id": "4ba68e60f964a520025e39e3",
+      "name": "Eddie's Bicycles"
+    }
+  },
+  {
+    "name": "Enoch's Bike Shop",
+    "address": "480 10th Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Everyday 11-6",
+    "website": "",
+    "latitude": -73.997711,
+    "longitude": 40.756282,
+    "foursquare": {
+      "id": "51d48b59498ee198d09650ce",
+      "name": "Enoch's Bike Shop"
+    }
+  },
+  {
+    "name": "Ferrara Cycle Shop",
+    "address": "6304 20th Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Everyday 8-6",
+    "website": "",
+    "latitude": -73.984814,
+    "longitude": 40.617662,
+    "foursquare": {
+      "id": "5254644a498eadd80586fd0f",
+      "name": "Ferrara Cycle Shop"
+    }
+  },
+  {
+    "name": "Fulton Bikes",
+    "address": "1580 Fulton Street, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "M-Sat 10-7, Sun 10-3",
+    "website": "",
+    "latitude": -73.93767,
+    "longitude": 40.679596,
+    "foursquare": {
+      "id": "4f6ce0bfe4b0738fb1ae131c",
+      "name": "Fulton Bikes, Clinton Hill"
+    }
+  },
+  {
+    "name": "Frank's Bike Shop",
+    "address": "553 Grand St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "M, Tue, Thu-Sat 9-7, Closed Wed, Sun 10-6",
+    "website": "http://www.franksbikes.com/",
+    "latitude": -73.980368,
+    "longitude": 40.71395,
+    "foursquare": {
+      "id": "4ab64569f964a520637620e3",
+      "name": "Frank's Bike Shop"
+    }
+  },
+  {
+    "name": "Graham's Bicycle Discount Center",
+    "address": "178 Graham Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Everyday 11-6",
+    "website": "",
+    "latitude": -73.943104,
+    "longitude": 40.707816,
+    "foursquare": {
+      "id": "4b4c1513f964a5200eae26e3",
+      "name": "Graham Bicycle Discount Center"
+    }
+  },
+  {
+    "name": "Canal Street Metro Bicycles",
+    "address": "75 Varick Street, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Sat 10-6, Sun 10-5",
+    "website": "http://www.metrobicycles.com/",
+    "latitude": -74.00656979999997,
+    "longitude": 40.7232293,
+    "foursquare": {
+      "id": "4a789e1df964a5200ce61fe3",
+      "name": "Metro Bicycles - Soho"
+    }
+  },
+  {
+    "name": "Grand Bicycle Center",
+    "address": "70-13 Grand Ave, Queens, NY",
+    "boro": "Queens",
+    "storetype": 1,
+    "hours": "Open 10am-6pm, Closed Sunday",
+    "website": "http://www.grandbicycle.com/",
+    "latitude": -73.89268,
+    "longitude": 40.72776,
+    "foursquare": {
+      "id": "4c8be438cf3ea143ae27f051",
+      "name": "Grand Bicycle"
+    }
+  },
+  {
+    "name": "Cigi Bicycle Shop",
+    "address": "42-20 111th St, Queens, NY",
+    "boro": "Queens",
+    "storetype": 1,
+    "hours": "M-Sat 10:30-7, Sun 11-4",
+    "website": "http://cigibicycleshop.com",
+    "latitude": -73.85495630000003,
+    "longitude": 40.749638,
+    "foursquare": {
+      "id": "4e19f024d4c062b044f67f34",
+      "name": "Cigi Bicycle Shop"
+    }
+  },
+  {
+    "name": "Century Bicycle Shop",
+    "address": "14-18 150th St, Queens, NY",
+    "boro": "Queens",
+    "storetype": 1,
+    "hours": "Everyday 10-6",
+    "website": "",
+    "latitude": -73.81385499999999,
+    "longitude": 40.788251,
+    "foursquare": {
+      "id": "501d6128e4b0efa1ebcb91e5",
+      "name": "RG's Bicycle Shop"
+    }
+  },
+  {
+    "name": "Heavy Metal Bike Shop",
+    "address": "2016 3 Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "M-Sat 10-7, Sun 12:30-5",
+    "website": "",
+    "latitude": -73.942618,
+    "longitude": 40.794667,
+    "foursquare": {
+      "id": "4c194d9c834e2d7f2e322a80",
+      "name": "Heavy Metal Bike Shop"
+    }
+  },
+  {
+    "name": "Jack Rabbit Sports",
+    "address": "42 West 14th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Fri 11-8, Sat 10-8, Sun 11-7",
+    "website": "http://www.jackrabbitsports.com",
+    "latitude": -73.995105,
+    "longitude": 40.736474,
+    "foursquare": {
+      "id": "4dceb3981f6eb12270812bc5",
+      "name": "JackRabbit Sports"
+    }
+  },
+  {
+    "name": "Jack Rabbit Sports",
+    "address": "151 7th Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Mon-Fri 11-8, Sat 10-8, Sun 11-7",
+    "website": "http://www.jackrabbitsports.com",
+    "latitude": -73.976831,
+    "longitude": 40.672356,
+    "foursquare": {
+      "id": "4dceb3981f6eb12270812bc5",
+      "name": "JackRabbit Sports"
+    }
+  },
+  {
+    "name": "Junior Bicycle Shop",
+    "address": "1820 Amsterdam Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "M-Sat 10-8, Closed Sun",
+    "website": "",
+    "latitude": -73.945334,
+    "longitude": 40.828589,
+    "foursquare": {
+      "id": "4be2017dae55a593185f5c62",
+      "name": "Junior Bicycle Shop"
+    }
+  },
+  {
+    "name": "6th Ave Metro Bicycles",
+    "address": "546 6th Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Sat 9:30-6:30, Sun 9:30-6",
+    "website": "http://www.metrobicycles.com/",
+    "latitude": -73.996324,
+    "longitude": 40.737791,
+    "foursquare": {
+      "id": "4a3545adf964a520b39c1fe3",
+      "name": "Metro Bicycles - Chelsea"
+    }
+  },
+  {
+    "name": "96th Street Metro Bikes",
+    "address": "231 W 96th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Everyday 9:30-6:30",
+    "website": "http://www.metrobicycles.com/",
+    "latitude": -73.971233,
+    "longitude": 40.794571,
+    "foursquare": {
+      "id": "4afee7f6f964a520763122e3",
+      "name": "Metro Bicycles - East Village"
+    }
+  },
+  {
+    "name": "A Bicycle Shop",
+    "address": "163 W. 22nd Street, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Fri 9:30-7, Sat 9:30-6, Sun 12-5",
+    "website": "http://www.a-bicycleshop.com/",
+    "latitude": -73.994918,
+    "longitude": 40.743077,
+    "foursquare": {
+      "id": "501d6128e4b0efa1ebcb91e5",
+      "name": "RG's Bicycle Shop"
+    }
+  },
+  {
+    "name": "Affinity Cycles",
+    "address": "616 Grand Street, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Wed-Mon 12-7, Tue 12-5",
+    "website": "http://www.affinitycycles.com/",
+    "latitude": -73.947584,
+    "longitude": 40.711153,
+    "foursquare": {
+      "id": "4dc94e2152b1ceba541a3a26",
+      "name": "Affinity"
+    }
+  },
+  {
+    "name": "Arc de Triomphe Bicycles",
+    "address": "11401 Jamaica Ave, Queens, NY",
+    "boro": "Queens",
+    "storetype": 1,
+    "hours": "M-F 12-6:30, Sat 11-5:30, Closed Sun",
+    "website": "http://adtbikes.com/",
+    "latitude": -73.822509,
+    "longitude": 40.70176,
+    "foursquare": {
+      "id": "4c06c6818b4520a1d0ed8597",
+      "name": "Arc De Triomphe Bike Store"
+    }
+  },
+  {
+    "name": "Arnold's Bicycles",
+    "address": "4220 8th Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "M, Tue, Thu, Fri, Sat 10-6, Wed 12-6, Closed Sun",
+    "website": "",
+    "latitude": -73.999352,
+    "longitude": 40.645512,
+    "foursquare": {
+      "id": "4b624730f964a520fa3f2ae3",
+      "name": "Arnold's Bicycles"
+    }
+  },
+  {
+    "name": "Arrow Cycle Services",
+    "address": "4053 White Plains Rd, Bronx, NY",
+    "boro": "Bronx",
+    "storetype": 1,
+    "hours": "Mon-Sat 9-6, Closed Sun",
+    "website": "http://www.arrowcycleinc.com/",
+    "latitude": -73.859432,
+    "longitude": 40.89009,
+    "foursquare": {
+      "id": "4d60403aef378cfaf9147ba6",
+      "name": "Arrow Cycle Inc"
+    }
+  },
+  {
+    "name": "Bennett's Bicycles",
+    "address": "517 Jewett Ave, Staten Island, NY",
+    "boro": "Staten Island",
+    "storetype": 1,
+    "hours": "M, Tue, Thu, Fri 10-6, Closed Wed, Sat 10-5, Sun 12-3",
+    "website": "",
+    "latitude": -74.131858,
+    "longitude": 40.624138,
+    "foursquare": {
+      "id": "4ce2f44747d5a143752e071d",
+      "name": "Bennett's Bicycles"
+    }
+  },
+  {
+    "name": "Bicycle Doctor",
+    "address": "133 Grand St, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Mon-Tue & Thu-Fri 12-7, Sat 10-6, Sun 12-5, Closed Wednesday",
+    "website": "http://www.brooklynbikedoctor.com/",
+    "latitude": -73.962367,
+    "longitude": 40.715086,
+    "foursquare": {
+      "id": "5363ea2d11d2560b1fa92be9",
+      "name": "the bicycle doctor"
+    }
+  },
+  {
+    "name": "Bicycle Habitat",
+    "address": "244 Lafayette St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Thu 10-7, Fri 10-6:30, Sat-Sun 10-6",
+    "website": "http://bicyclehabitat.com/",
+    "latitude": -73.997079,
+    "longitude": 40.722897,
+    "foursquare": {
+      "id": "51436c82e4b0f685d8651ee3",
+      "name": "Bicycle Habitat"
+    }
+  },
+  {
+    "name": "Bicycle Renaissance",
+    "address": "430 Columbus Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Fri 10:30-7, Sat-Sun 10-5",
+    "website": "http://bicyclerenaissance.com/",
+    "latitude": -73.974878,
+    "longitude": 40.78306,
+    "foursquare": {
+      "id": "4a4e828ef964a52091ae1fe3",
+      "name": "Bicycle Renaissance"
+    }
+  },
+  {
+    "name": "Bicycle Station",
+    "address": "171 Park Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Closed Mon, Tue-Fri 11-7, Sat 10-7, Sun 11-4",
+    "website": "http://www.bicyclestationbrooklyn.com/",
+    "latitude": -73.972628,
+    "longitude": 40.696275,
+    "foursquare": {
+      "id": "4b250ca4f964a520a86b24e3",
+      "name": "Bicycle Station"
+    }
+  },
+  {
+    "name": "Bike Central Park, Inc.",
+    "address": "221 West 58th Street, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 2,
+    "hours": "Bike Rental Reservations Only",
+    "website": "http://bikecentralpark.com/",
+    "latitude": -73.98041,
+    "longitude": 40.76671,
+    "foursquare": {
+      "id": "4c5dba1794fd0f47a749cc45",
+      "name": "Bike Rental Central Park"
+    }
+  },
+  {
+    "name": "Bike Heaven",
+    "address": "348 E 62nd St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Fri 10-7, Sat-Sun 9-5",
+    "website": "",
+    "latitude": -73.961551,
+    "longitude": 40.761734,
+    "foursquare": {
+      "id": "4bcb319b3740b7132ced6165",
+      "name": "Bike Heaven"
+    }
+  },
+  {
+    "name": "Bike Shop",
+    "address": "4026 Hylan Blvd, Staten Island, NY",
+    "boro": "Staten Island",
+    "storetype": 1,
+    "hours": "Mon-Sat 10-6, Sun 10-2",
+    "website": "",
+    "latitude": -74.146402,
+    "longitude": 40.541538,
+    "foursquare": {
+      "id": "4b4c10f1f964a520d5ad26e3",
+      "name": "Bike Shop"
+    }
+  },
+  {
+    "name": "Bike Works",
+    "address": "106 Ridge St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Thu-Sat & Mon-Tue 11-6, Sun 12-5, Closed Wed",
+    "website": "http://www.bikecult.com/works/",
+    "latitude": -73.983134,
+    "longitude": 40.718712,
+    "foursquare": {
+      "id": "51aa6632498e877bbdfdffc5",
+      "name": "Bike Works"
+    }
+  },
+  {
+    "name": "Larry's Cycle Shop",
+    "address": "1854 Flatbush Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Mon-Fri 10-6, Sat 10-5, Sun 10-3",
+    "website": "http://www.larryscycleshop.com",
+    "latitude": -73.939113,
+    "longitude": 40.624528,
+    "foursquare": {
+      "id": "4b4c120af964a520e4ad26e3",
+      "name": "Larry's Cycle Shop"
+    }
+  },
+  {
+    "name": "NYCeWheels",
+    "address": "1603 York Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Sat 11-7, Closed Sunday",
+    "website": "http://nycewheels.com/",
+    "latitude": -73.947968,
+    "longitude": 40.775052,
+    "foursquare": {
+      "id": "4c2cae6277cfe21eed5bb6f1",
+      "name": "NYCeWheels"
+    }
+  },
+  {
+    "name": "Jeff's Bicycles NYC",
+    "address": "1400 3rd Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Everyday 10-7",
+    "website": "http://bicyclesnyc.com/",
+    "latitude": -73.957181,
+    "longitude": 40.774716,
+    "foursquare": {
+      "id": "4b528f4df964a520478227e3",
+      "name": "Larry And Jeff's Bicycles"
+    }
+  },
+  {
+    "name": "Kissena Bicycle Center",
+    "address": "4570 Kissena Blvd, Flushing, NY",
+    "boro": "Flushing",
+    "storetype": 1,
+    "hours": "M-Sat 10-7, Sun 11-5",
+    "website": "",
+    "latitude": -73.8193781,
+    "longitude": 40.75069060000001,
+    "foursquare": {
+      "id": "4c8652bd47cc224bfb51a89f",
+      "name": "Kissena Bicycle"
+    }
+  },
+  {
+    "name": "Bicycle Barn",
+    "address": "107-34 Springfield Blvd, Queens Village, NY",
+    "boro": "Queens Village",
+    "storetype": 1,
+    "hours": "M-F 10-7, Sat 10-6, Sun 12-5",
+    "website": "http://bicyclebarn.services.officelive.com/default.aspx",
+    "latitude": -73.7380354,
+    "longitude": 40.7094757,
+    "foursquare": {
+      "id": "4bed8c8f91380f470712a018",
+      "name": "Bicycle Barn"
+    }
+  },
+  {
+    "name": "Bellitte Bicycles",
+    "address": "169-20 Jamaica Ave, Jamaica, NY",
+    "boro": "Jamaica",
+    "storetype": 1,
+    "hours": "Seasonal",
+    "website": "http://www.bellbikes.com",
+    "latitude": -73.790028,
+    "longitude": 40.7069308,
+    "foursquare": {
+      "id": "4d7f620dcd09224bada95a30",
+      "name": "Bellitte Bicycles"
+    }
+  },
+  {
+    "name": "Ride Brooklyn",
+    "address": "468 Bergen St, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "M-Thu 10-7, F 10-8, Sat 10-6, Sun 11-6",
+    "website": "http://www.ridebrooklynny.com",
+    "latitude": -73.97597,
+    "longitude": 40.680916,
+    "foursquare": {
+      "id": "4a58de9cf964a52014b81fe3",
+      "name": "Ride Brooklyn"
+    }
+  },
+  {
+    "name": "Peak Mountain Bike Shop",
+    "address": "42-42 235th Street, Queens, NY",
+    "boro": "Queens",
+    "storetype": 3,
+    "hours": "Tues-Fri 11am-8pm, Sat 10am-6pm, Sun 11am-5pm, Mon - Closed",
+    "website": "http://www.peakmtnbike.com",
+    "latitude": -73.7478428,
+    "longitude": 40.767613,
+    "foursquare": {
+      "id": "4bbd163b078095215431da91",
+      "name": "Peak Mountain Bike Pro Shop"
+    }
+  },
+  {
+    "name": "Brooklyn Cycle Works",
+    "address": "560 Vanderbilt Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "Open 9am to 9pm, 7 days a week",
+    "website": "http://www.brooklynbikeandboard.com",
+    "latitude": -73.968258,
+    "longitude": 40.679884,
+    "foursquare": {
+      "id": "4f48f548e4b01863539aa4a3",
+      "name": "Brooklyn Cycle Works"
+    }
+  },
+  {
+    "name": "The Hub",
+    "address": "73 Morton Street, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Everyday 10-8",
+    "website": "",
+    "latitude": -74.007028,
+    "longitude": 40.730934,
+    "foursquare": {
+      "id": "4c0ec077d64c0f47f8b4285d",
+      "name": "The Hub"
+    }
+  },
+  {
+    "name": "Adeline Adeline",
+    "address": "147 Reade Street, Manhatan, NY",
+    "boro": "Manhatan",
+    "storetype": 3,
+    "hours": "Tue-Fri 12pm - Sundown, Sat-Sun 11am - Sundown",
+    "website": "http://www.adelineadeline.com",
+    "latitude": -74.0098392963,
+    "longitude": 40.7164360994,
+    "foursquare": {
+      "id": "4baf8a6df964a520be083ce3",
+      "name": "Adeline Adeline"
+    }
+  },
+  {
+    "name": "Crooked Front Wheel (a guy on the street)",
+    "address": "NE Corner of Houston and 2nd Ave, , NY",
+    "boro": "",
+    "storetype": 1,
+    "hours": "During the summer, most of the day",
+    "website": "",
+    "latitude": -73.990855,
+    "longitude": 40.723798
+  },
+  {
+    "name": "Spokesman Cycles",
+    "address": "80-16 Cooper Avenue, Queens, NY",
+    "boro": "Queens",
+    "storetype": 3,
+    "hours": "Mon-Sat 10AM-9PM ; Sun 11AM-8PM",
+    "website": "http://www.spokesmancycles.com",
+    "latitude": -73.86954,
+    "longitude": 40.70924,
+    "foursquare": {
+      "id": "4aa19e53f964a520424120e3",
+      "name": "Spokesman Cycles"
+    }
+  },
+  {
+    "name": "Spokesman Cycles",
+    "address": "34 Irving Place, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Open daily 10AM to 9PM",
+    "website": "http://spokesmancycles.com",
+    "latitude": -73.987684,
+    "longitude": 40.735299,
+    "foursquare": {
+      "id": "4aef7eadf964a520dad821e3",
+      "name": "Spokesman Cycles"
+    }
+  },
+  {
+    "name": "Bikes on Myrtle",
+    "address": "478 Myrtle Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Everyday 10-7",
+    "website": "",
+    "latitude": -73.9661,
+    "longitude": 40.6933,
+    "foursquare": {
+      "id": "4c07da3c271dc9b6a4782b9a",
+      "name": "Bikes On Myrtle"
+    }
+  },
+  {
+    "name": "Bike and Roll Family Bike Center",
+    "address": "Building 515,\nHay Road, Gov Island, NY",
+    "boro": "Gov Island",
+    "storetype": 2,
+    "hours": "Friday: 10-4:30, Sat/Sun 10-6:30",
+    "website": "http://www.bikeandroll.com/newyork/index.html",
+    "latitude": -74.019273,
+    "longitude": 40.691914,
+    "foursquare": {
+      "id": "4c7046f6d97fa14367a5f5ca",
+      "name": "Bike and Roll"
+    }
+  },
+  {
+    "name": "Bike and Roll Adult Bike Express",
+    "address": "Pershing Hall, Andes Road, Gov Island, NY",
+    "boro": "Gov Island",
+    "storetype": 2,
+    "hours": "Friday: 10-4:30, Sat/Sun 10-6:30",
+    "website": "http://www.bikeandroll.com/newyork/index.html",
+    "latitude": -74.013932,
+    "longitude": 40.691324,
+    "foursquare": {
+      "id": "4c7046f6d97fa14367a5f5ca",
+      "name": "Bike and Roll"
+    }
+  },
+  {
+    "name": "New Bo Bo Toys Co",
+    "address": "96 Elizabeth Street, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "9:00a - 8:00p (7 days/week)",
+    "website": "http://newbobotoys.com/",
+    "latitude": -73.9958,
+    "longitude": 40.71838,
+    "foursquare": {
+      "id": "535aa8c9498ed7e7336f3743",
+      "name": "new bo bo bicycle"
+    }
+  },
+  {
+    "name": "NYC Bicycle Shop",
+    "address": "1178 Bay Street , Staten Island, NY",
+    "boro": "Staten Island",
+    "storetype": 3,
+    "hours": "M-F 10-7, Sat 10-5, Sun 11-5",
+    "website": "http://www.nycbicycleshop.com/",
+    "latitude": -74.066667,
+    "longitude": 40.614357,
+    "foursquare": {
+      "id": "5248881611d233270e39da4d",
+      "name": "NYC Bicycle Shop"
+    }
+  },
+  {
+    "name": "Zen Bikes",
+    "address": "134 West 24 Street, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Sat 10-7, Sun 10-5",
+    "website": "http://zenbikes.com/",
+    "latitude": -73.99389,
+    "longitude": 40.74411,
+    "foursquare": {
+      "id": "4bc0ef3bf8219c748085b210",
+      "name": "Zen Bikes"
+    }
+  },
+  {
+    "name": "Bike Life",
+    "address": "56 Lincoln Rd, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "",
+    "website": "",
+    "latitude": -73.96099770000001,
+    "longitude": 40.66090070000001,
+    "foursquare": {
+      "id": "4bca2583b6c49c74a1e28f91",
+      "name": "Bike Life"
+    }
+  },
+  {
+    "name": "Spin City Cycles",
+    "address": "98-73 Queens Blvd, Queens, NY",
+    "boro": "Queens",
+    "storetype": 1,
+    "hours": "Mon-Wed, 11-7, Thu-Fri 11-7:30, Sat-Sun 10-6",
+    "website": "http://spincitycycle.com/",
+    "latitude": -73.85541,
+    "longitude": 40.7278,
+    "foursquare": {
+      "id": "4afb52b3f964a520f41c22e3",
+      "name": "Spin City"
+    }
+  },
+  {
+    "name": "Bicycle Habitat",
+    "address": "476 Fifth Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "M-F 11a-8p, Sa 11a-7p, Su 12p-6p",
+    "website": "http://bicyclehabitat.com",
+    "latitude": -73.98728,
+    "longitude": 40.66815,
+    "foursquare": {
+      "id": "51436c82e4b0f685d8651ee3",
+      "name": "Bicycle Habitat"
+    }
+  },
+  {
+    "name": "Bushwick Bike Shop",
+    "address": "1345 Dekalb Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Open 12-8 everyday, except Tuesdays and Sundays",
+    "website": "http://www.velobrooklyn.com",
+    "latitude": -73.924658,
+    "longitude": 40.698555,
+    "foursquare": {
+      "id": "4aabca36f964a520195a20e3",
+      "name": "Velo Brooklyn Bushwick Bike Shop"
+    }
+  },
+  {
+    "name": "Bike and Roll",
+    "address": "12th Avenue and 43rd street, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 2,
+    "hours": "Everyday 9-7",
+    "website": "http://www.bikeandroll.com/newyork/index.html",
+    "latitude": -73.993934,
+    "longitude": 40.77184,
+    "foursquare": {
+      "id": "4bdb5e33f1499c74bc4d38f3",
+      "name": "Bike and Roll"
+    }
+  },
+  {
+    "name": "Bay Ridge Bicycle World",
+    "address": "8916 3rd Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Everyday 10-8",
+    "website": "http://www.bayridgebikes.com",
+    "latitude": -74.03210200000001,
+    "longitude": 40.62107,
+    "foursquare": {
+      "id": "4a59697ef964a5205cb91fe3",
+      "name": "Bay Ridge Bicycle World"
+    }
+  },
+  {
+    "name": "Red Lantern",
+    "address": "345 Myrtle Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Everyday 9-9",
+    "website": "http://www.redlanternbicycles.com/",
+    "latitude": -73.97239880000001,
+    "longitude": 40.6934188,
+    "foursquare": {
+      "id": "4f1c513ae4b095bc469f12e1",
+      "name": "Red Lantern"
+    }
+  },
+  {
+    "name": "Bike and Roll",
+    "address": "West 67th Street at Central Park West, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 2,
+    "hours": "Mon-Sat 9-5, Sun 10-6",
+    "website": "http://www.bikenewyorkcity.com/",
+    "latitude": -73.97682,
+    "longitude": 40.77251
+  },
+  {
+    "name": "Bike and Roll",
+    "address": "557 12th Ave (at 44th St.), New York, NY 10036",
+    "boro": "Manhattan",
+    "storetype": 2,
+    "hours": "Various. See website.",
+    "website": "http://www.bikenewyorkcity.com/",
+    "latitude": -74.01709,
+    "longitude": 40.70442,
+    "foursquare": {
+      "id": "4c766d8c1b30a0930dfbf109",
+      "name": "Bike and Roll"
+    }
+  },
+  {
+    "name": "Eduardo's Bicycle Shop",
+    "address": "2131 2nd Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Thu 10-7, Fri 10-6:30, Sun 10-5",
+    "website": "",
+    "latitude": -73.94085459999997,
+    "longitude": 40.7929006
+  },
+  {
+    "name": "Silk Road Cycles",
+    "address": "76 Franklin St, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Mon-Sat 11-7, Sun 12-7",
+    "website": "http://www.silkroadcycles.net/",
+    "latitude": -73.95689800000002,
+    "longitude": 40.72720289999999,
+    "foursquare": {
+      "id": "4debe2f4d164ef597d1137b4",
+      "name": "Silk Road Cycles"
+    }
+  },
+  {
+    "name": "Central Park Sightseeing",
+    "address": "56 West 56th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 2,
+    "hours": "Everyday 8-8",
+    "website": "http://www.centralparksightseeing.com",
+    "latitude": -73.977082,
+    "longitude": 40.763143,
+    "foursquare": {
+      "id": "4deaab85d22da22d4edad90b",
+      "name": "Central Park Sightseeing"
+    }
+  },
+  {
+    "name": "Innovation Bike Shop",
+    "address": "105 W 106th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Fri 10-8, Sat-Sun 10-6",
+    "website": "http://www.innovationbikeshop.com",
+    "latitude": -73.96314999999998,
+    "longitude": 40.7995734,
+    "foursquare": {
+      "id": "4bc24686f8219c748ba0b410",
+      "name": "Innovation Bike Shop"
+    }
+  },
+  {
+    "name": "Master Bike Shop",
+    "address": "265 West 72nd St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "",
+    "website": "http://www.masterbikeshop.com/",
+    "latitude": -73.98403769999999,
+    "longitude": 40.7796434,
+    "foursquare": {
+      "id": "4dd9652845ddced820b70864",
+      "name": "Master Bike Shop"
+    }
+  },
+  {
+    "name": "City Bicycles",
+    "address": "315 W 38th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Fri 9-6:30, Sat 10-5, Closed Sun",
+    "website": "http://www.citybicyclesnyc.com/",
+    "latitude": -73.992157,
+    "longitude": 40.755092,
+    "foursquare": {
+      "id": "537b8ecd498e9a76c5333083",
+      "name": "City Bicycles"
+    }
+  },
+  {
+    "name": "Chari & Co NYC",
+    "address": "175 Stanton St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Sat 11-7, Sun 12-6",
+    "website": "http://www.chariandconyc.com",
+    "latitude": -73.98421910000002,
+    "longitude": 40.7200992,
+    "foursquare": {
+      "id": "4b12d5daf964a5201e8f23e3",
+      "name": "Chari & Co"
+    }
+  },
+  {
+    "name": "Landmark Vintage Bicycles",
+    "address": "136 East 3rd, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "",
+    "website": "http://landmarkbicycles.com",
+    "latitude": -73.9855996,
+    "longitude": 40.7237683,
+    "foursquare": {
+      "id": "4a2d727bf964a520b2971fe3",
+      "name": "Landmark Vintage Bicycles"
+    }
+  },
+  {
+    "name": "Hudson Urban Bicycles",
+    "address": "139 Charles St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Sat 9-7, Sun 10-7",
+    "website": "http://hudsonurbanbicycles.com/",
+    "latitude": -74.00816299999997,
+    "longitude": 40.7342313,
+    "foursquare": {
+      "id": "4c118056f6ba9c7447c01874",
+      "name": "Hudson Urban Bicycles"
+    }
+  },
+  {
+    "name": "Central Park Bicycle Shop",
+    "address": "315 West 57th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "",
+    "website": "",
+    "latitude": -73.98390799999999,
+    "longitude": 40.767087,
+    "foursquare": {
+      "id": "4bc0b0ddf8219c748bf8b110",
+      "name": "Central Park Bicycle Shop"
+    }
+  },
+  {
+    "name": "Eastern Mountain Sports",
+    "address": "530 Broadway, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Fri 10-9:30, Sat 10-9, Sun 11-8",
+    "website": "http://www.ems.com",
+    "latitude": -73.99862250000001,
+    "longitude": 40.7230775,
+    "foursquare": {
+      "id": "4a789f04f964a52012e61fe3",
+      "name": "Eastern Mountain Sports"
+    }
+  },
+  {
+    "name": "Eastern Mountain Sports",
+    "address": "2152 Broadway, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Sat 10-9, Sun 11-8",
+    "website": "http://www.ems.com",
+    "latitude": -73.98103309999999,
+    "longitude": 40.78146479999999,
+    "foursquare": {
+      "id": "4e5ed0a3c65bba71669e62ee",
+      "name": "Eastern Mountain Sports"
+    }
+  },
+  {
+    "name": "REI",
+    "address": "303 Lafayette St (at W Houston), New York, NY 10012",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Sat 10-9, Sun 11-8",
+    "website": "http://www.rei.com/stores/142",
+    "latitude": -73.99539909999999,
+    "longitude": 40.724506,
+    "foursquare": {
+      "id": "4e4e2e1662844166697bd28c",
+      "name": "REI"
+    }
+  },
+  {
+    "name": "Al's Cycle Solutions",
+    "address": "693 10th Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Sat 10-7, Sun 11-6",
+    "website": "http://www.alscyclesolutions.com",
+    "latitude": -73.99320130000001,
+    "longitude": 40.7631382,
+    "foursquare": {
+      "id": "4b956f3ff964a52066a234e3",
+      "name": "Al's Cycle Solutions"
+    }
+  },
+  {
+    "name": "Echelon Cycles",
+    "address": "51 8th Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Mon-Fri 10-7, Sat 9-7, Sun 10-5",
+    "website": "http://www.echeloncyclesnyc.com/",
+    "latitude": -74.00390679999998,
+    "longitude": 40.7383931,
+    "foursquare": {
+      "id": "4bd234e0462cb7138ce6db07",
+      "name": "Echelon Cycles"
+    }
+  },
+  {
+    "name": "Swim Bike Run",
+    "address": "203 W 58th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Sat 9-8, Sun 11-6",
+    "website": "http://www.sbrshop.com",
+    "latitude": -73.9798156,
+    "longitude": 40.7663305,
+  },
+  {
+    "name": "Bike Rental Central Park",
+    "address": "348 W 57 St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 2,
+    "hours": "Everyday 7:30AM-Midnight",
+    "website": "http://www.bikerentalcentralpark.com/",
+    "latitude": -73.9850424,
+    "longitude": 40.7675391,
+    "foursquare": {
+      "id": "4c5dba1794fd0f47a749cc45",
+      "name": "Bike Rental Central Park"
+    }
+  },
+  {
+    "name": "Dah Shop",
+    "address": "134 Division St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Sat 11-7, Sun 12-6",
+    "website": "http://www.dahshop.com/",
+    "latitude": -73.99174110000001,
+    "longitude": 40.7145297,
+    "foursquare": {
+      "id": "49f38ae0f964a520b56a1fe3",
+      "name": "Dah Shop"
+    }
+  },
+  {
+    "name": "NYC Bicycle Shop",
+    "address": "250 West 49th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Everyday 8:30-8",
+    "website": "http://www.nycbicycleshop.com/",
+    "latitude": -73.9859407,
+    "longitude": 40.7613027,
+    "foursquare": {
+      "id": "5248881611d233270e39da4d",
+      "name": "NYC Bicycle Shop"
+    }
+  },
+  {
+    "name": "Bike Stop",
+    "address": "37-19 28th Ave, Astoria, NY",
+    "boro": "Astoria",
+    "storetype": 1,
+    "hours": "Everyday 10-6",
+    "website": "http://www.bikestopastoria.com",
+    "latitude": -73.91401280000002,
+    "longitude": 40.7656581,
+    "foursquare": {
+      "id": "4beee4a42c082d7f30103142",
+      "name": "Bike Stop"
+    }
+  },
+  {
+    "name": "Bill's Cyclery",
+    "address": "63-24 Roosevelt Ave, Woodside, NY",
+    "boro": "Woodside",
+    "storetype": 1,
+    "hours": "Mon-Fri 10-7, Sat 10-6, Sun 11-3",
+    "website": "http://ubuybikes.com/",
+    "latitude": -73.90024599999998,
+    "longitude": 40.745793,
+    "foursquare": {
+      "id": "4c2a6760b34ad13a6936e8ce",
+      "name": "Bill's Cyclery"
+    }
+  },
+  {
+    "name": "L.I.C. Bicycles",
+    "address": "25-11 Queens Plaza, Queens, NY",
+    "boro": "Queens",
+    "storetype": 3,
+    "hours": "Mon-Fri 9:15-7, Sat 10-6, Closed Sun",
+    "website": "http://longislandcitybikes.wordpress.com/",
+    "latitude": -73.93950510000002,
+    "longitude": 40.7506568,
+    "foursquare": {
+      "id": "4ab018aaf964a520dc6520e3",
+      "name": "L.I.C. Bicycles"
+    }
+  },
+  {
+    "name": "Cigi Bicycle Shop",
+    "address": "91-07 37th Ave, Queens, NY",
+    "boro": "Queens",
+    "storetype": 1,
+    "hours": "M-Sat 10:30-7, Sat 10-7, Sun 11-4",
+    "website": "http://cigibicycleshop.com",
+    "latitude": -73.87560659999997,
+    "longitude": 40.7507745,
+    "foursquare": {
+      "id": "4e19f024d4c062b044f67f34",
+      "name": "Cigi Bicycle Shop"
+    }
+  },
+  {
+    "name": "PM Bikes",
+    "address": "92-64 Queens Blvd, Queens, NY",
+    "boro": "Queens",
+    "storetype": 1,
+    "hours": "Everyday 10-5:30",
+    "website": "http://pmbicycles.com",
+    "latitude": -73.86740279999998,
+    "longitude": 40.7320539
+  },
+  {
+    "name": "ADT Bike and Skate Shop",
+    "address": "114-01 Jamaica Ave, Richmond Hill, NY",
+    "boro": "Richmond Hill",
+    "storetype": 1,
+    "hours": "Call for hours",
+    "website": "http://www.adtbikes.com/",
+    "latitude": -73.84529629999997,
+    "longitude": 40.69517829999999,
+    "foursquare": {
+      "id": "4f495ddea17c96f294faa033",
+      "name": "ADT Bike & Skate Shop"
+    }
+  },
+  {
+    "name": "Mini Mall Bike Shop",
+    "address": "430 Beach 129th Street, Far Rockaway, NY",
+    "boro": "Far Rockaway",
+    "storetype": 1,
+    "hours": "",
+    "website": "",
+    "latitude": -73.849086,
+    "longitude": 40.577333
+  },
+  {
+    "name": "Bicycle Repairman",
+    "address": "40-21a 35th Ave, Astoria, NY",
+    "boro": "Astoria",
+    "storetype": 1,
+    "hours": "",
+    "website": "",
+    "latitude": -73.91983800000003,
+    "longitude": 40.754236,
+    "foursquare": {
+      "id": "4bae7ad1f964a5208db73be3",
+      "name": "Bicycle Repairman Co."
+    }
+  },
+  {
+    "name": "Bike Doctor NYC / Bike Rental Manhattan",
+    "address": "186 W 134th St, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "by appointment only - we'll come to you",
+    "website": "http://www.bikerentalmanhattan.com/",
+    "latitude": -73.943541,
+    "longitude": 40.814099,
+    "foursquare": {
+      "id": "4f9c3856e4b033dc2aca7e5f",
+      "name": "Bike Rental Manhattan"
+    }
+  },
+  {
+    "name": "Fulton Bikes",
+    "address": "997 Fulton St, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "Mon-Thur 10-8:30, Fri-Sat 10-7:30, Sun 12-5",
+    "website": "",
+    "latitude": -73.96297370000002,
+    "longitude": 40.6827902,
+    "foursquare": {
+      "id": "4f6ce0bfe4b0738fb1ae131c",
+      "name": "Fulton Bikes, Clinton Hill"
+    }
+  },
+  {
+    "name": "Central Park Bikes",
+    "address": "60th St and Broadway, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 3,
+    "hours": "Everyday 9-7",
+    "website": "http://centralparkbikes.com",
+    "latitude": -73.98198990000003,
+    "longitude": 40.7688468,
+    "foursquare": {
+      "id": "511e03ea582f44ff715e89f3",
+      "name": "Central Park Bikes"
+    }
+  },
+  {
+    "name": "Danny's Cycles",
+    "address": "1690 2nd Ave, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 1,
+    "hours": "Mon-Fri 10-8, Sat-Sun 10-7",
+    "website": "www.dannyscycles.com",
+    "latitude": -73.9509151,
+    "longitude": 40.778603,
+    "foursquare": {
+      "id": "4feb10fa3950cf338e7b0b95",
+      "name": "Danny's Cycles"
+    }
+  },
+  {
+    "name": "Chcycles",
+    "address": "537 Empire Blvd , Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "Sun-Thu 10-8, Fri 10-1, Closed Sat",
+    "website": "http://www.chcycles.com",
+    "latitude": -73.94439869999997,
+    "longitude": 40.6642976
+  },
+  {
+    "name": "Bike Smith",
+    "address": "149 Smith St, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "Mon-Sat 9-9, Sun 9-5 (or so)",
+    "website": "",
+    "latitude": -73.99044679999997,
+    "longitude": 40.6865996,
+    "foursquare": {
+      "id": "4f63b594e4b0cded5bc9a3f2",
+      "name": "Bike Smith"
+    }
+  },
+  {
+    "name": "",
+    "address": "1078 Fulton Street, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "",
+    "website": " http://www.facebook.com/BicycleRoots",
+    "latitude": -73.95769989999997,
+    "longitude": 40.6815564
+  },
+  {
+    "name": "Dog Day Cyclery",
+    "address": "115 Van Brunt Street, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "Tue-Sat 10-6, Sun 10-4, Mon 10-8",
+    "website": "http://dogdaycyclery.com",
+    "latitude": -74.0052331,
+    "longitude": 40.6846574,
+    "foursquare": {
+      "id": "4e32ea5e7d8bf5432e419965",
+      "name": "Dog Day Cyclery"
+    }
+  },
+  {
+    "name": "Bike Slug",
+    "address": "1050 Bedford Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Mon, Wed, Thur, Fri 11-9, Sat, Sun 10-6, Closed Tue",
+    "website": "http://www.bikeslug.com/store.html",
+    "latitude": -73.95533,
+    "longitude": 40.689003,
+    "foursquare": {
+      "id": "4fada22be4b0e047b1bd7dc1",
+      "name": "Bike Slug"
+    }
+  },
+  {
+    "name": "Paul's Bicycle Shop",
+    "address": "163 Beach 116th St, Rockaway Beach, NY",
+    "boro": "Rockaway Beach",
+    "storetype": 3,
+    "hours": "M-F 10-7, Sat 10-5, Closed Sun",
+    "website": "",
+    "latitude": -73.83694880000002,
+    "longitude": 40.5790763,
+    "foursquare": {
+      "id": "4b4c12d9f964a520f1ad26e3",
+      "name": "Verrazano Bicycle Shop"
+    }
+  },
+  {
+    "name": "Rolling Orange Bikes",
+    "address": "269 Baltic Street, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "closed Mon, Tue-Fri 12:30-7:30, 11-7:30 Sat-Sun",
+    "website": "http://www.rollingorangebikes.com/",
+    "latitude": -73.99382,
+    "longitude": 40.685731,
+    "foursquare": {
+      "id": "4c13cc167f7f2d7f16b6df68",
+      "name": "Rolling Orange Bikes"
+    }
+  },
+  {
+    "name": "Elias Bicycle Shop",
+    "address": "39-24 108th St, Corona, NY",
+    "boro": "Corona",
+    "storetype": 1,
+    "hours": "",
+    "website": "",
+    "latitude": -73.858833,
+    "longitude": 40.7506856,
+    "foursquare": {
+      "id": "4f93163ae4b03742d9ed305e",
+      "name": "Elias Bicycle Shop"
+    }
+  },
+  {
+    "name": "Excelsior Bike Shop",
+    "address": "694 Franklin Ave, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "M-F 10:30-7, Sat 10-6, Sun 11-5",
+    "website": "http://www.9thstreetcycles.com",
+    "latitude": -73.95675699999998,
+    "longitude": 40.674751,
+    "foursquare": {
+      "id": "4fa6b1efe4b08e1f89c4550f",
+      "name": "Excelsior Bike Shop"
+    }
+  },
+  {
+    "name": "9th St Cycles",
+    "address": "375 9th Street, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "M-F 10:30-7, Sat 10-6, Sun 11-5",
+    "website": "http://www.9thstreetcycles.com/",
+    "latitude": -73.9839895,
+    "longitude": 40.6682443,
+    "foursquare": {
+      "id": "4bc33e652a89ef3b4cb5f488",
+      "name": "9th Street Cycles"
+    }
+  },
+  {
+    "name": "Papillionaire Bicycles",
+    "address": "390 Van Brunt St, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Tue, Thu-Sun 12-6, Closed other days",
+    "website": "http://www.papillionaire.com",
+    "latitude": -74.01366589999998,
+    "longitude": 40.6767036
+  },
+  {
+    "name": "Zukkies Bike Shop",
+    "address": "279 Bushwick Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "",
+    "website": "http://zukkies.com",
+    "latitude": -73.9395285,
+    "longitude": 40.706479,
+    "foursquare": {
+      "id": "4ab3b608f964a5201e6e20e3",
+      "name": "Zukkies Bike Shop"
+    }
+  },
+  {
+    "name": "Bike Ahead",
+    "address": "386 Broadway, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Sun-Thur 10-7",
+    "website": "",
+    "latitude": -73.95474100000001,
+    "longitude": 40.7071881,
+    "foursquare": {
+      "id": "504618e9183fee0053925587",
+      "name": "Bike Ahead Cyclery & Broadway Pro Scooter"
+    }
+  },
+  {
+    "name": "Ride Brooklyn Williamsburg",
+    "address": "50 N 7th St, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "M-F 10-7, Sat 10-6, Sun 11-6",
+    "website": "http://ridebrooklynny.com",
+    "latitude": -73.96211970000002,
+    "longitude": 40.7205573,
+    "foursquare": {
+      "id": "508b3e52e4b07c9fb078ce40",
+      "name": "Ride Brooklyn Williamsburg"
+    }
+  },
+  {
+    "name": "Juice Pedaler",
+    "address": "154 Prospect Park Southwest, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 3,
+    "hours": "Sun-Thur 8-6, Fri-Sat 8-7",
+    "website": "https://store.juicepedalernyc.com/",
+    "latitude": -73.97370999999998,
+    "longitude": 40.654881,
+    "foursquare": {
+      "id": "5067655ae4b0da82c68f2a4d",
+      "name": "Juice Pedaler"
+    }
+  },
+  {
+    "name": "Redbeard Bikes",
+    "address": "165 Front Street, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Mon-Tue 12-8, Thur-Fri 11-7, Sat-Sun 11-6, Closed Wed",
+    "website": "http://redbeardbikes.com/",
+    "latitude": -73.98664810000002,
+    "longitude": 40.7024365,
+    "foursquare": {
+      "id": "50b3cde6e4b0065e6284dc77",
+      "name": "Redbeard Bikes"
+    }
+  },
+  {
+    "name": "Talent Cycles",
+    "address": "502 W 139th St, New York, NY",
+    "boro": "New York",
+    "storetype": 3,
+    "hours": "Everyday 10-8",
+    "website": "http://talentcyclesny.com/",
+    "latitude": -73.9507625,
+    "longitude": 40.8215347,
+    "foursquare": {
+      "id": "51840036498e9f0a3d468438",
+      "name": "Talent Cycles"
+    }
+  },
+  {
+    "name": "Bicycle Roots",
+    "address": "609 Nostrand Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Tue-Fri 10-7, Sat 11-6, Sun 11-5, Closed Mon",
+    "website": "http://www.bicycleroots.com",
+    "latitude": -73.94961,
+    "longitude": 40.676344,
+    "foursquare": {
+      "id": "4faeddffe4b04792c39a0aa3",
+      "name": "Bicycle Roots"
+    }
+  },
+  {
+    "name": "Bikesmith II",
+    "address": "667 Grand St, New York, NY",
+    "boro": "New York",
+    "storetype": 1,
+    "hours": "",
+    "website": "https://www.facebook.com/pages/Bikesmith-II/121743514675682",
+    "latitude": -73.9458598,
+    "longitude": 40.7115458,
+    "foursquare": {
+      "id": "51200157e4b0d10dc1c70689",
+      "name": "BikeSmith II"
+    }
+  },
+  {
+    "name": "Bushwick Bicycles",
+    "address": "308 Irving Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "M-Sat 9:30-7, Sun 9:30-5:30",
+    "website": "http://bushwickbicycleshop.webs.com/",
+    "latitude": -73.914311,
+    "longitude": 40.698743,
+    "foursquare": {
+      "id": "4cd58b0d67c7236aff6a1377",
+      "name": "Bushwick Bicycle Shop"
+    }
+  },
+  {
+    "name": "Bike and Roll",
+    "address": "Riverside Drive and W 70th Street, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 2,
+    "hours": "Closed for the winter season",
+    "website": "http://www.bikenewyorkcity.com/",
+    "latitude": -73.98863911628723,
+    "longitude": 40.779826511063796,
+    "foursquare": {
+      "id": "4c7046f6d97fa14367a5f5ca",
+      "name": "Bike and Roll"
+    }
+  },
+  {
+    "name": "Bike and Roll",
+    "address": "Old Fulton Street, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 2,
+    "hours": "Closed for the winter season",
+    "website": "http://www.bikenewyorkcity.com/",
+    "latitude": -73.99485111236572,
+    "longitude": 40.70310659483828,
+    "foursquare": {
+      "id": "4bdb5e33f1499c74bc4d38f3",
+      "name": "Bike and Roll"
+    }
+  },
+  {
+    "name": "Bike and Roll",
+    "address": "Hudson River Greenway and W. 135th Street, Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 2,
+    "hours": "Closed for the winter season",
+    "website": "http://www.bikenewyorkcity.com/",
+    "latitude": -73.95879149436949,
+    "longitude": 40.82165267333597,
+    "foursquare": {
+      "id": "4c7046f6d97fa14367a5f5ca",
+      "name": "Bike and Roll"
+    }
+  },
+  {
+    "name": "Bike and Roll",
+    "address": "East River Greenway (bwn Houston and E. 6th St), Manhattan, NY",
+    "boro": "Manhattan",
+    "storetype": 2,
+    "hours": "Closed for the winter season",
+    "website": "http://www.bikenewyorkcity.com/",
+    "latitude": -73.97446632385254,
+    "longitude": 40.72037995010057,
+    "foursquare": {
+      "id": "4c7046f6d97fa14367a5f5ca",
+      "name": "Bike and Roll"
+    }
+  },
+  {
+    "name": "Larry's Freewheeling",
+    "address": "301 Cathedral Parkway, New York, NY",
+    "boro": "New York",
+    "storetype": 3,
+    "hours": "",
+    "website": "http://www.larrysfreewheeling.com/",
+    "latitude": -73.9580497,
+    "longitude": 40.8010904,
+    "foursquare": {
+      "id": "4f95a354e4b04c0b8e8f452f",
+      "name": "Larry's Freewheeling"
+    }
+  },
+  {
+    "name": "Bespoke Bicycles",
+    "address": "64 Lafayette Avenue, Brooklyn, NY",
+    "boro": "Brooklyn",
+    "storetype": 1,
+    "hours": "Tue 2-6, Wed-Mon 10-6",
+    "website": "http:\\www.bespoke-bicycles.com",
+    "latitude": -73.975349,
+    "longitude": 40.686983,
+    "foursquare": {
+      "id": "4ed14be0722e01c583703b2d",
+      "name": "Bespoke"
+    }
+  }
+]

@@ -27,7 +27,7 @@ importFromFile(Parking, shelters_hash)
 
 # ======== IMPORT STORES ===========
 puts "Importing Stores..."
-stores_file = File.read('./scripts/bikestores/stores.json')
+stores_file = File.read('./scripts/bikestores/stores_foursquare_formatted.json')
 stores_hash = JSON.parse(stores_file)
 importFromFile(Store, stores_hash)
 

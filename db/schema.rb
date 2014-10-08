@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141008034437) do
+ActiveRecord::Schema.define(version: 20141008181147) do
 
   create_table "parkings", force: true do |t|
     t.string   "name"
@@ -40,6 +40,8 @@ ActiveRecord::Schema.define(version: 20141008034437) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.integer  "storetype"
+    t.string   "foursquare_id"
+    t.string   "foursquare_name"
   end
 
   add_index "stores", ["latitude"], name: "index_stores_on_latitude"
