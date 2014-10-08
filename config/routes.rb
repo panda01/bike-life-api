@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  # ex: /parkings/geo?sw=-73.990178,40.713765&ne=-72.990178,41.713765
   get 'parkings/geo' => 'parkings#geo'
   resources :parkings
 
