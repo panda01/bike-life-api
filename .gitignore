@@ -16,3 +16,6 @@
 /tmp
 
 /scripts/bikestores/config.js
+
+/config/foursquare.yml
+*.swp
