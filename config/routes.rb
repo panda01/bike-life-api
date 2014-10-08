@@ -1,8 +1,17 @@
 Rails.application.routes.draw do
 
-  # ex: /parkings/geo?sw=-73.990178,40.713765&ne=-72.990178,41.713765
+  get 'stores/index'
+
+  get 'stores/show'
+
+  # ex: /stores/geo.json?sw=-73.956244,40.767097&ne=-70.789849,45.803496
+  get 'stores/geo'
+
+  # ex: /parkings/geo.json?sw=-73.990178,40.713765&ne=-72.990178,41.713765
   get 'parkings/geo' => 'parkings#geo'
   resources :parkings
+
+  resources :stores
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

@@ -9,11 +9,11 @@ require 'json'
 
 
 # ======== IMPORT FUNCTION ===========
-def importParking(json_hash)
+def importFromFile(type, json_hash)
   idx = 0
   len = json_hash.length
   json_hash.each do |arr|
-    Parking.create(arr)
+    type.create(arr)
     idx += 1
     puts "Added #{idx}/#{len}"
   end
@@ -23,10 +23,16 @@ end
 shelters_file = File.read('./scripts/bikeshelters/shelters.json')
 shelters_hash = JSON.parse(shelters_file)
 puts "Importing Shelters..."
-importParking(shelters_hash)
+importFromFile(Parking, shelters_hash)
+
+# ======== IMPORT STORES ===========
+puts "Importing Stores..."
+stores_file = File.read('./scripts/bikestores/stores.json')
+stores_hash = JSON.parse(stores_file)
+importFromFile(Store, stores_hash)
 
 # ======== IMPORT RACKS ===========
 puts "Importing Racks..."
 racks_file = File.read('./scripts/bikeracks/racks.json')
 racks_hash = JSON.parse(racks_file)
-importParking(racks_hash)
+importFromFile(Parking, racks_hash)

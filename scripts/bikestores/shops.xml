@@ -1,0 +1,2057 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<bikeshops>
+  <shop id="1">
+    <name>Continuum Cycles</name>
+    <address>199 Avenue B</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-505-8785</phone>
+    <type>1</type>
+    <hours>Mon-Sat 12-7, Sun 1-5,</hours>
+    <distance>0 feet</distance>
+    <website>http:\www.continuumcycles.com</website>
+    <wkt>-73.978705 40.728231</wkt>
+  </shop>
+  <shop id="2">
+    <name>B-Fold Bicycles</name>
+    <address>224 E 13th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-353-5028</phone>
+    <type>1</type>
+    <hours>Mon, Wed, Thu, Fri, Sat 12-6, Closed Sun and Tue</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bfold.com/</website>
+    <wkt>-73.9871 40.7322</wkt>
+  </shop>
+  <shop id="3">
+    <name>Gotham Bikes Dwntn (Toga Bikes)</name>
+    <address>112 W Broadway</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-732-2453</phone>
+    <type>3</type>
+    <hours>M-W 10-6:30, Thu 10-7:30, Fri 10:6:30, Sat 10-6:30, Sun 10:30-5</hours>
+    <distance>0 feet</distance>
+    <website>http://togabikes.com/</website>
+    <wkt>-74.00877 40.716352</wkt>
+  </shop>
+  <shop id="4">
+    <name>Robert's Bicycle</name>
+    <address>33-13 Francis Lewis Blvd</address>
+    <address2></address2>
+    <boro>Bayside</boro>
+    <phone>718-353-5432</phone>
+    <type>1</type>
+    <hours>Mon, Wed, Fri 10-8, Tue, Thur 10-7, Sat 9:30-6, Sun 11:30-4:30:30</hours>
+    <distance>0 feet</distance>
+    <website>http://www.robertsbicycles.net</website>
+    <wkt>-73.789849 40.767097</wkt>
+  </shop>
+  <shop id="5">
+    <name>Trackstar</name>
+    <address>231 Eldridge Street</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-982-2553</phone>
+    <type>1</type>
+    <hours>Mon-Fri 10-7, Sat 12-7, Closed Sunday</hours>
+    <distance>0 feet</distance>
+    <website>http://www.trackstarnyc.com/shop/</website>
+    <wkt>-73.990089 40.722195</wkt>
+  </shop>
+  <shop id="6">
+    <name>Tread Bike Shop</name>
+    <address>250 Dyckman St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-544-7055</phone>
+    <type>3</type>
+    <hours>Mon-Sat 10-7, Sun 10-6</hours>
+    <distance>0 feet</distance>
+    <website>http://treadbikeshop.com/</website>
+    <wkt>-73.928456 40.866332</wkt>
+  </shop>
+  <shop id="7">
+    <name>Verrazano Bicycle Shop</name>
+    <address>7308 5th Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-680-6521</phone>
+    <type>3</type>
+    <hours>M-Sat 10-7, Sun 11-5</hours>
+    <distance>0 feet</distance>
+    <website>http://verrazanocycles.com/</website>
+    <wkt>-74.022193 40.630886</wkt>
+  </shop>
+  <shop id="8">
+    <name>Victor's Bike Repair</name>
+    <address>4125 Broadway</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-740-5137</phone>
+    <type>3</type>
+    <hours>Sun-Fri 10-8, Sat 10-9</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.938761 40.845733</wkt>
+  </shop>
+  <shop id="9">
+    <name>Weber's Bicycles</name>
+    <address>4715 New Utrecht Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-871-4321</phone>
+    <type>1</type>
+    <hours>Sun-Thu 10:30-7, Fri 10:30-2:30, Closed Sat</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.994384 40.638103</wkt>
+  </shop>
+  <shop id="10">
+    <name>Westchester Bicycle Pro Shop</name>
+    <address>2611 Westchester Ave</address>
+    <address2></address2>
+    <boro>Bronx</boro>
+    <phone>718-409-1114</phone>
+    <type>1</type>
+    <hours>M-F 10-7, Sat 10-6, Sun 10-4</hours>
+    <distance>0 feet</distance>
+    <website>http://westchesterpro.com</website>
+    <wkt>-73.840996 40.841337</wkt>
+  </shop>
+  <shop id="11">
+    <name>Liberty Bicycles</name>
+    <address>846 9th Avenue</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-757-2418</phone>
+    <type>3</type>
+    <hours>Everyday 9:30-7</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.986376 40.76673</wkt>
+  </shop>
+  <shop id="12">
+    <name>Manhattan Bicycles</name>
+    <address>791 9th Avenue</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-262-0111</phone>
+    <type>3</type>
+    <hours>Everyday 10-7</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.987943 40.765139</wkt>
+  </shop>
+  <shop id="13">
+    <name>Manhattan Velo</name>
+    <address>141 E 17th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-253-6788</phone>
+    <type>3</type>
+    <hours>Everyday 10-7</hours>
+    <distance>0 feet</distance>
+    <website>http://www.manhattanvelo.com/</website>
+    <wkt>-73.986823 40.735797</wkt>
+  </shop>
+  <shop id="14">
+    <name>Mani's Bicycle Shop</name>
+    <address>8 Bennett Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-927-8501</phone>
+    <type>3</type>
+    <hours>Mon-Fri 10-7:30, Sat 10-7, Sun 11-6</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.936663 40.850861</wkt>
+  </shop>
+  <shop id="15">
+    <name>Metro Bicycles</name>
+    <address>1311 Lexington Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-427-4450</phone>
+    <type>3</type>
+    <hours>Mon-Sat 9:30-6:30, Sun 9:30-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.metrobicycles.com/</website>
+    <wkt>-73.954488 40.780845</wkt>
+  </shop>
+  <shop id="16">
+    <name>Midtown Metro Bicycles</name>
+    <address>360 W 47th</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-581-4500</phone>
+    <type>3</type>
+    <hours>Mon-Fri 9:30-6:30, Sat 9:30-6, Sun 10-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.metrobicycles.com/</website>
+    <wkt>-73.989225 40.760998</wkt>
+  </shop>
+  <shop id="17">
+    <name>Modsquad Cycles</name>
+    <address>2119 Frederick Douglas Boulevard</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-865-5050</phone>
+    <type>3</type>
+    <hours>Tue-Fri 10-7, Sat 10-6, Sun 12-5, Closed Mon</hours>
+    <distance>0 feet</distance>
+    <website>http://www.modsquadcycles.com</website>
+    <wkt>-73.956244 40.803496</wkt>
+  </shop>
+  <shop id="18">
+    <name>Mr. C's Cycles</name>
+    <address>4622 7th Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-438-7283</phone>
+    <type>3</type>
+    <hours>M, W, Thu, Fri 10-7, Closed Tue, Sat 10-6, Sun 10-5</hours>
+    <distance>0 feet</distance>
+    <website>http://www.mrccycles.com/</website>
+    <wkt>-74.003883 40.644594</wkt>
+  </shop>
+  <shop id="19">
+    <name>Neighborhood Cycle, Inc.</name>
+    <address>571 Courtlandt Avenue</address>
+    <address2></address2>
+    <boro>Bronx</boro>
+    <phone>718-665-6031</phone>
+    <type>1</type>
+    <hours>Everyday 9-7</hours>
+    <distance>0 feet</distance>
+    <website>http://neighborhoodcycle.com</website>
+    <wkt>-73.91942 40.817135</wkt>
+  </shop>
+  <shop id="20">
+    <name>Nelson's Bicycle Shop</name>
+    <address>251 Bushwick Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-821-4811</phone>
+    <type>1</type>
+    <hours>Mon-Sat 11-7, Closed Sunday</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.939615 40.707365</wkt>
+  </shop>
+  <shop id="21">
+    <name>Gray's Bicycle</name>
+    <address>8234 Lefferts Blvd</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-441-9767</phone>
+    <type>3</type>
+    <hours>Tue-Sat 10:30-6:30, Sun 10-5, Closed Mon</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.831759 40.70614</wkt>
+  </shop>
+  <shop id="22">
+    <name>Twin Bicycles</name>
+    <address>7520 Metropolitan Ave</address>
+    <address2></address2>
+    <boro>Middle Village</boro>
+    <phone>718-326-7725</phone>
+    <type>1</type>
+    <hours>Everday 10-8</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.87689390000003 40.712727</wkt>
+  </shop>
+  <shop id="23">
+    <name>Laurelton Bicycle Shop</name>
+    <address>23220 Merrick Blvd</address>
+    <address2></address2>
+    <boro>Jamaica</boro>
+    <phone>718-528-6886</phone>
+    <type>1</type>
+    <hours>Everyday 11-6</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.73717299999998 40.674695</wkt>
+  </shop>
+  <shop id="24">
+    <name>NYC Bikes</name>
+    <address>140 Havemeyer Street</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-599-2409</phone>
+    <type>3</type>
+    <hours>M, Tue, Thu, Fri, Sat 11-7, Closed Wed, Sun 11-5</hours>
+    <distance>0 feet</distance>
+    <website>http://nycbikes.com/</website>
+    <wkt>-73.957466 40.712008</wkt>
+  </shop>
+  <shop id="25">
+    <name>NYC Velo</name>
+    <address>64 2nd Avenue</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-253-7771</phone>
+    <type>3</type>
+    <hours>Mon-Fri 11-8, Sat-Sun 11-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.nycvelo.com/</website>
+    <wkt>-73.989454 40.725875</wkt>
+  </shop>
+  <shop id="26">
+    <name>Waterfront Bicycle Shop</name>
+    <address>391 West Street</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-414-BIKE</phone>
+    <type>3</type>
+    <hours></hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikeshopny.com</website>
+    <wkt>-74.009963 40.732887</wkt>
+  </shop>
+  <shop id="27">
+    <name>On the Move</name>
+    <address>400 7th Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-768-4998</phone>
+    <type>3</type>
+    <hours>M 11-7, Tue-Fri 12-7, Sat 10-6, Sun 11-5</hours>
+    <distance>0 feet</distance>
+    <website>http://onthemovenyc.com/</website>
+    <wkt>-73.983509 40.664823</wkt>
+  </shop>
+  <shop id="28">
+    <name>Paragon Sports</name>
+    <address>867 Broadway</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-255-8036</phone>
+    <type>1</type>
+    <hours>Mon-Sat 10-8, Sun 11:30-7</hours>
+    <distance>0 feet</distance>
+    <website>http://www.paragonsports.com/Paragon/Shop</website>
+    <wkt>-73.990363 40.737583</wkt>
+  </shop>
+  <shop id="29">
+    <name>Pedal Pusher Bikes</name>
+    <address>1306 Second Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-288-5592</phone>
+    <type>3</type>
+    <hours>Sat-Mon 10-6. Closed Tue, Wed 10-7, Thu 10-8, Fri 10-6</hours>
+    <distance>0 feet</distance>
+    <website>http://pedalpusherbikeshop.com/</website>
+    <wkt>-73.95978 40.766585</wkt>
+  </shop>
+  <shop id="30">
+    <name>R &amp; A Cycles</name>
+    <address>105 5th Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-636-5242</phone>
+    <type>1</type>
+    <hours>Mon-Fri 10-7, Sat 10-6, Sun 11-5</hours>
+    <distance>0 feet</distance>
+    <website>http://www.racycles.com/</website>
+    <wkt>-73.978252 40.679603</wkt>
+  </shop>
+  <shop id="31">
+    <name>Racer's Edge Cycle and Fitness</name>
+    <address>1970 Rockaway Parkway</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-531-3111</phone>
+    <type>1</type>
+    <hours>Mon-Sat 10-7:30, Sun 11-5</hours>
+    <distance>0 feet</distance>
+    <website>http://www.racersedgenyc.com/</website>
+    <wkt>-73.890847 40.634621</wkt>
+  </shop>
+  <shop id="32">
+    <name>Recycle-A-Bicycle</name>
+    <address>75 Avenue C</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-475-1655</phone>
+    <type>3</type>
+    <hours>Mon-Sat 12-7, Closed Sunday</hours>
+    <distance>0 feet</distance>
+    <website>http://www.recycleabicycle.org/</website>
+    <wkt>-73.979739 40.723152</wkt>
+  </shop>
+  <shop id="33">
+    <name>Recycle-A-Bicycle</name>
+    <address>35 Pearl Street</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-858-2972</phone>
+    <type>3</type>
+    <hours>Mon-Sat 12-7, Closed Sunday</hours>
+    <distance>0 feet</distance>
+    <website>http://www.recycleabicycle.org/</website>
+    <wkt>-73.987455 40.70389</wkt>
+  </shop>
+  <shop id="34">
+    <name>Roy's Sheepshead Cycle</name>
+    <address>2679 Coney Island Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-646-9430</phone>
+    <type>1</type>
+    <hours>Mon-Thu 10-8, Fri-Sat 10-6, Sun 11-6</hours>
+    <distance>0 feet</distance>
+    <website>http://roysbikes.com/</website>
+    <wkt>-73.960511 40.591447</wkt>
+  </shop>
+  <shop id="35">
+    <name>Sid's Bikes NYC</name>
+    <address>235 E 34th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-213-8360</phone>
+    <type>1</type>
+    <hours>Mon-Fri 10-8, Sat 10-6, Sun 11-5</hours>
+    <distance>0 feet</distance>
+    <website>http://www.sidsbikes.com/</website>
+    <wkt>-73.976903 40.745363</wkt>
+  </shop>
+  <shop id="36">
+    <name>Sid's Bikes NYC</name>
+    <address>151 W 19th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-989-1060</phone>
+    <type>1</type>
+    <hours>Mon-Fri 10-8, Sat 10-6, Sun 11-5</hours>
+    <distance>0 feet</distance>
+    <website>http://www.sidsbikes.com/</website>
+    <wkt>-73.995945 40.741167</wkt>
+  </shop>
+  <shop id="37">
+    <name>Spokesman Cycles</name>
+    <address>49-04 Vernon Blvd.</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-433-0450</phone>
+    <type>3</type>
+    <hours>Everday 10-7</hours>
+    <distance>0 feet</distance>
+    <website>http://www.spokesmancycles.com/</website>
+    <wkt>-73.954006 40.743345</wkt>
+  </shop>
+  <shop id="38">
+    <name>Terrific's Video and Bikes</name>
+    <address>1547 Broadway</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-453-1575</phone>
+    <type>1</type>
+    <hours>Mon-Sat 10-8, Sun 11-5</hours>
+    <distance>0 feet</distance>
+    <website>http://terrificbikes.com/</website>
+    <wkt>-73.916177 40.686319</wkt>
+  </shop>
+  <shop id="39">
+    <name>Toga Bikes Westside</name>
+    <address>110 West End Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-799-9625</phone>
+    <type>3</type>
+    <hours>M-W 11-7, Thu 11-8, Fri 11-7, Sat 10-6, Sun 11-7</hours>
+    <distance>0 feet</distance>
+    <website>http://togabikes.com/</website>
+    <wkt>-73.987817 40.774944</wkt>
+  </shop>
+  <shop id="40">
+    <name>Tony's Bicycles</name>
+    <address>35-01 23rd Ave</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-278-3355</phone>
+    <type>1</type>
+    <hours>M-Sat 9:30-7:30, Sun 9:30-6</hours>
+    <distance>0 feet</distance>
+    <website>http://tonysbicycles.com</website>
+    <wkt>-73.9111197 40.7730641</wkt>
+  </shop>
+  <shop id="41">
+    <name>Bill's Cyclery</name>
+    <address>6324 Roosevelt Ave</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-335-1906</phone>
+    <type>1</type>
+    <hours>M-Sat 10-8, Sun 11-3</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.835109 40.75794</wkt>
+  </shop>
+  <shop id="42">
+    <name>Bravo Bike Repairs</name>
+    <address>187 Wilson Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-602-5150</phone>
+    <type>1</type>
+    <hours>M, Tue, Thu, Fri, Sat 9:30-7, Closed Wed, Sun 10-6</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.923349 40.699518</wkt>
+  </shop>
+  <shop id="43">
+    <name>Brooklyn Bicycle Center</name>
+    <address>673 Coney Island Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-941-9095</phone>
+    <type>1</type>
+    <hours>Everyday 10-7</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.969097 40.640927</wkt>
+  </shop>
+  <shop id="44">
+    <name>Brooklyn Heights Bike</name>
+    <address>278 Atlantic Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-625-9633</phone>
+    <type>1</type>
+    <hours>Mon-Sat 10-6, Sun 11-3</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.989996 40.688794</wkt>
+  </shop>
+  <shop id="45">
+    <name>B's Bikes</name>
+    <address>262 Driggs Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-349-1212</phone>
+    <type>1</type>
+    <hours>Everyday 12-7</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.948297 40.722704</wkt>
+  </shop>
+  <shop id="46">
+    <name>Buddy's Schwinn Bicycles</name>
+    <address>7930 Parsons Blvd</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-591-9180</phone>
+    <type>1</type>
+    <hours>M, Tue, Thu, Fri 10-7, Closed Wed, Sat 10-5, Sun 11-4</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.826439 40.79541</wkt>
+  </shop>
+  <shop id="47">
+    <name>Busy Bee Bikes</name>
+    <address>437 East 6th Street</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-228-2347</phone>
+    <type>1</type>
+    <hours>Everyday 11:30-8</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.985207 40.726155</wkt>
+  </shop>
+  <shop id="48">
+    <name>Castle Hill Bicycle Center</name>
+    <address>3467 E Tremont Ave</address>
+    <address2></address2>
+    <boro>Bronx</boro>
+    <phone>718-597-2083</phone>
+    <type>1</type>
+    <hours>M-Sat 10:30-7, Sun 12-5</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.827118 40.831974</wkt>
+  </shop>
+  <shop id="49">
+    <name>Champion Bicycle</name>
+    <address>896 Amsterdam Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-662-2690</phone>
+    <type>3</type>
+    <hours>Mon-Fri 10-7, Sat-Sun 10:30-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.championbikes.com/</website>
+    <wkt>-73.966907 40.799053</wkt>
+  </shop>
+  <shop id="50">
+    <name>Chelsea Bikes</name>
+    <address>130 W 26th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>646-230-7715</phone>
+    <type>3</type>
+    <hours>Mon-Sat 10-8, Sun 11-7</hours>
+    <distance>0 feet</distance>
+    <website>http://www.chelseabicycles.net/</website>
+    <wkt>-73.992497 40.7451</wkt>
+  </shop>
+  <shop id="51">
+    <name>Conrad's Bike Shop</name>
+    <address>25 Tudor City Pl</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-697-6966</phone>
+    <type>1</type>
+    <hours>Mon-Sat 11-7, Closed Sunday</hours>
+    <distance>0 feet</distance>
+    <website>http://www.conradsbikeshop.com/</website>
+    <wkt>-73.97063 40.748523</wkt>
+  </shop>
+  <shop id="52">
+    <name>14th Street Metro Bicycles</name>
+    <address>332 E 14th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-228-4344</phone>
+    <type>3</type>
+    <hours>Mon-Sat 9:30-6:30, Sun 9:30-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.metrobicycles.com/</website>
+    <wkt>-73.984167 40.731869</wkt>
+  </shop>
+  <shop id="53">
+    <name>Court Cycles</name>
+    <address>514 Court St</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-797-0326</phone>
+    <type>1</type>
+    <hours>M-F 10-7, Sat 10-6, Sun 11-3</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.999023 40.676253</wkt>
+  </shop>
+  <shop id="54">
+    <name>Crosstown Bicycles</name>
+    <address>33 East 170th St</address>
+    <address2></address2>
+    <boro>Bronx</boro>
+    <phone>718-293-8837</phone>
+    <type>1</type>
+    <hours>M-Sat 10-7, Sun 11-5</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.917028 40.84013</wkt>
+  </shop>
+  <shop id="55">
+    <name>Dixon's Bicycle Shop</name>
+    <address>792 Union St</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-636-0067</phone>
+    <type>1</type>
+    <hours>M-Sat 11-7, Sun 11-6</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.976442 40.674695</wkt>
+  </shop>
+  <shop id="56">
+    <name>Eddie's Bicycles Shop</name>
+    <address>490 Amsterdam Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-580-2011</phone>
+    <type>3</type>
+    <hours>M-F 9-7, Closed Sat, Sun 9:30-6</hours>
+    <distance>0 feet</distance>
+    <website>http://eddiesbicycles.net/</website>
+    <wkt>-73.976324 40.786176</wkt>
+  </shop>
+  <shop id="57">
+    <name>Enoch's Bike Shop</name>
+    <address>480 10th Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-582-0620</phone>
+    <type>3</type>
+    <hours>Everyday 11-6</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.997711 40.756282</wkt>
+  </shop>
+  <shop id="58">
+    <name>Ferrara Cycle Shop</name>
+    <address>6304 20th Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-232-6716</phone>
+    <type>1</type>
+    <hours>Everyday 8-6</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.984814 40.617662</wkt>
+  </shop>
+  <shop id="59">
+    <name>Fulton Bikes</name>
+    <address>1580 Fulton Street</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-778-2887</phone>
+    <type>1</type>
+    <hours>M-Sat 10-7, Sun 10-3</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.93767 40.679596</wkt>
+  </shop>
+  <shop id="60">
+    <name>Frank's Bike Shop</name>
+    <address>553 Grand St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-533-6332</phone>
+    <type>3</type>
+    <hours>M, Tue, Thu-Sat 9-7, Closed Wed, Sun 10-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.franksbikes.com/</website>
+    <wkt>-73.980368 40.71395</wkt>
+  </shop>
+  <shop id="61">
+    <name>Graham's Bicycle Discount Center</name>
+    <address>178 Graham Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-782-5741</phone>
+    <type>1</type>
+    <hours>Everyday 11-6</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.943104 40.707816</wkt>
+  </shop>
+  <shop id="62">
+    <name>Canal Street Metro Bicycles</name>
+    <address>75 Varick Street</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-334-8000</phone>
+    <type>3</type>
+    <hours>Mon-Sat 10-6, Sun 10-5</hours>
+    <distance>0 feet</distance>
+    <website>http://www.metrobicycles.com/</website>
+    <wkt>-74.00656979999997 40.7232293</wkt>
+  </shop>
+  <shop id="63">
+    <name>Grand Bicycle Center</name>
+    <address>70-13 Grand Ave</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-779-4691</phone>
+    <type>1</type>
+    <hours>Open 10am-6pm, Closed Sunday</hours>
+    <distance>0 feet</distance>
+    <website>http://www.grandbicycle.com/</website>
+    <wkt>-73.89268 40.72776</wkt>
+  </shop>
+  <shop id="64">
+    <name>Cigi Bicycle Shop</name>
+    <address>42-20 111th St</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-717-2377</phone>
+    <type>1</type>
+    <hours>M-Sat 10:30-7, Sun 11-4</hours>
+    <distance>0 feet</distance>
+    <website>http://cigibicycleshop.com</website>
+    <wkt>-73.85495630000003 40.749638</wkt>
+  </shop>
+  <shop id="65">
+    <name>Century Bicycle Shop</name>
+    <address>14-18 150th St</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-767-2772</phone>
+    <type>1</type>
+    <hours>Everyday 10-6</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.81385499999999 40.788251</wkt>
+  </shop>
+  <shop id="66">
+    <name>Heavy Metal Bike Shop</name>
+    <address>2016 3 Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-410-1144</phone>
+    <type>1</type>
+    <hours>M-Sat 10-7, Sun 12:30-5</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.942618 40.794667</wkt>
+  </shop>
+  <shop id="67">
+    <name>Jack Rabbit Sports</name>
+    <address>42 West 14th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-727-2980</phone>
+    <type>1</type>
+    <hours>Mon-Fri 11-8, Sat 10-8, Sun 11-7</hours>
+    <distance>0 feet</distance>
+    <website>http://www.jackrabbitsports.com</website>
+    <wkt>-73.995105 40.736474</wkt>
+  </shop>
+  <shop id="68">
+    <name>Jack Rabbit Sports</name>
+    <address>151 7th Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-636-9000</phone>
+    <type>1</type>
+    <hours>Mon-Fri 11-8, Sat 10-8, Sun 11-7</hours>
+    <distance>0 feet</distance>
+    <website>http://www.jackrabbitsports.com</website>
+    <wkt>-73.976831 40.672356</wkt>
+  </shop>
+  <shop id="69">
+    <name>Junior Bicycle Shop</name>
+    <address>1820 Amsterdam Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-690-6511</phone>
+    <type>1</type>
+    <hours>M-Sat 10-8, Closed Sun</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.945334 40.828589</wkt>
+  </shop>
+  <shop id="70">
+    <name>6th Ave Metro Bicycles</name>
+    <address>546 6th Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-255-5100</phone>
+    <type>3</type>
+    <hours>Mon-Sat 9:30-6:30, Sun 9:30-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.metrobicycles.com/</website>
+    <wkt>-73.996324 40.737791</wkt>
+  </shop>
+  <shop id="71">
+    <name>96th Street Metro Bikes</name>
+    <address>231 W 96th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-663-7531</phone>
+    <type>3</type>
+    <hours>Everyday 9:30-6:30</hours>
+    <distance>0 feet</distance>
+    <website>http://www.metrobicycles.com/</website>
+    <wkt>-73.971233 40.794571</wkt>
+  </shop>
+  <shop id="72">
+    <name>A Bicycle Shop</name>
+    <address>163 W. 22nd Street</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-691-6149</phone>
+    <type>1</type>
+    <hours>Mon-Fri 9:30-7, Sat 9:30-6, Sun 12-5</hours>
+    <distance>0 feet</distance>
+    <website>http://www.a-bicycleshop.com/</website>
+    <wkt>-73.994918 40.743077</wkt>
+  </shop>
+  <shop id="73">
+    <name>Affinity Cycles</name>
+    <address>616 Grand Street</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-384-5181</phone>
+    <type>1</type>
+    <hours>Wed-Mon 12-7, Tue 12-5</hours>
+    <distance>0 feet</distance>
+    <website>http://www.affinitycycles.com/</website>
+    <wkt>-73.947584 40.711153</wkt>
+  </shop>
+  <shop id="74">
+    <name>Arc de Triomphe Bicycles</name>
+    <address>11401 Jamaica Ave</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-846-2099</phone>
+    <type>1</type>
+    <hours>M-F 12-6:30, Sat 11-5:30, Closed Sun</hours>
+    <distance>0 feet</distance>
+    <website>http://adtbikes.com/</website>
+    <wkt>-73.822509 40.70176</wkt>
+  </shop>
+  <shop id="75">
+    <name>Arnold's Bicycles</name>
+    <address>4220 8th Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-435-8558</phone>
+    <type>1</type>
+    <hours>M, Tue, Thu, Fri, Sat 10-6, Wed 12-6, Closed Sun</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.999352 40.645512</wkt>
+  </shop>
+  <shop id="76">
+    <name>Arrow Cycle Services</name>
+    <address>4053 White Plains Rd</address>
+    <address2></address2>
+    <boro>Bronx</boro>
+    <phone>718-547-2656</phone>
+    <type>1</type>
+    <hours>Mon-Sat 9-6, Closed Sun</hours>
+    <distance>0 feet</distance>
+    <website>http://www.arrowcycleinc.com/</website>
+    <wkt>-73.859432 40.89009</wkt>
+  </shop>
+  <shop id="77">
+    <name>Bennett's Bicycles</name>
+    <address>517 Jewett Ave</address>
+    <address2></address2>
+    <boro>Staten Island</boro>
+    <phone>718-447-8652</phone>
+    <type>1</type>
+    <hours>M, Tue, Thu, Fri 10-6, Closed Wed, Sat 10-5, Sun 12-3</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-74.131858 40.624138</wkt>
+  </shop>
+  <shop id="78">
+    <name>Bicycle Doctor</name>
+    <address>133 Grand St</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-302-3145</phone>
+    <type>1</type>
+    <hours>Mon-Tue &amp; Thu-Fri 12-7, Sat 10-6, Sun 12-5, Closed Wednesday</hours>
+    <distance>0 feet</distance>
+    <website>http://www.brooklynbikedoctor.com/</website>
+    <wkt>-73.962367 40.715086</wkt>
+  </shop>
+  <shop id="79">
+    <name>Bicycle Habitat</name>
+    <address>244 Lafayette St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-431-3315</phone>
+    <type>1</type>
+    <hours>Mon-Thu 10-7, Fri 10-6:30, Sat-Sun 10-6</hours>
+    <distance>0 feet</distance>
+    <website>http://bicyclehabitat.com/</website>
+    <wkt>-73.997079 40.722897</wkt>
+  </shop>
+  <shop id="80">
+    <name>Bicycle Renaissance</name>
+    <address>430 Columbus Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-724-2350</phone>
+    <type>1</type>
+    <hours>Mon-Fri 10:30-7, Sat-Sun 10-5</hours>
+    <distance>0 feet</distance>
+    <website>http://bicyclerenaissance.com/</website>
+    <wkt>-73.974878 40.78306</wkt>
+  </shop>
+  <shop id="81">
+    <name>Bicycle Station</name>
+    <address>171 Park Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-638-0300</phone>
+    <type>1</type>
+    <hours>Closed Mon, Tue-Fri 11-7, Sat 10-7, Sun 11-4</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bicyclestationbrooklyn.com/</website>
+    <wkt>-73.972628 40.696275</wkt>
+  </shop>
+  <shop id="82">
+    <name>Bike Central Park, Inc.</name>
+    <address>221 West 58th Street</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-969-9729</phone>
+    <type>2</type>
+    <hours>Bike Rental Reservations Only</hours>
+    <distance>0 feet</distance>
+    <website>http://bikecentralpark.com/</website>
+    <wkt>-73.98041 40.76671</wkt>
+  </shop>
+  <shop id="83">
+    <name>Bike Heaven</name>
+    <address>348 E 62nd St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-230-1919</phone>
+    <type>1</type>
+    <hours>Mon-Fri 10-7, Sat-Sun 9-5</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.961551 40.761734</wkt>
+  </shop>
+  <shop id="84">
+    <name>Bike Shop</name>
+    <address>4026 Hylan Blvd</address>
+    <address2></address2>
+    <boro>Staten Island</boro>
+    <phone>718-948-4184</phone>
+    <type>1</type>
+    <hours>Mon-Sat 10-6, Sun 10-2</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-74.146402 40.541538</wkt>
+  </shop>
+  <shop id="85">
+    <name>Bike Works</name>
+    <address>106 Ridge St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-388-1077</phone>
+    <type>1</type>
+    <hours>Thu-Sat &amp; Mon-Tue 11-6, Sun 12-5, Closed Wed</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikecult.com/works/</website>
+    <wkt>-73.983134 40.718712</wkt>
+  </shop>
+  <shop id="86">
+    <name>Larry's Cycle Shop</name>
+    <address>1854 Flatbush Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-377-3600</phone>
+    <type>1</type>
+    <hours>Mon-Fri 10-6, Sat 10-5, Sun 10-3</hours>
+    <distance>0 feet</distance>
+    <website>http://www.larryscycleshop.com</website>
+    <wkt>-73.939113 40.624528</wkt>
+  </shop>
+  <shop id="87">
+    <name>NYCeWheels</name>
+    <address>1603 York Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-737-3078</phone>
+    <type>1</type>
+    <hours>Mon-Sat 11-7, Closed Sunday</hours>
+    <distance>0 feet</distance>
+    <website>http://nycewheels.com/</website>
+    <wkt>-73.947968 40.775052</wkt>
+  </shop>
+  <shop id="88">
+    <name>Jeff's Bicycles NYC</name>
+    <address>1400 3rd Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-794-2929</phone>
+    <type>3</type>
+    <hours>Everyday 10-7</hours>
+    <distance>0 feet</distance>
+    <website>http://bicyclesnyc.com/</website>
+    <wkt>-73.957181 40.774716</wkt>
+  </shop>
+  <shop id="89">
+    <name>Kissena Bicycle Center</name>
+    <address>4570 Kissena Blvd</address>
+    <address2></address2>
+    <boro>Flushing</boro>
+    <phone>718-358-0986</phone>
+    <type>1</type>
+    <hours>M-Sat 10-7, Sun 11-5</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.8193781 40.75069060000001</wkt>
+  </shop>
+  <shop id="90">
+    <name>Bicycle Barn</name>
+    <address>107-34 Springfield Blvd</address>
+    <address2></address2>
+    <boro>Queens Village</boro>
+    <phone>718-479-3119</phone>
+    <type>1</type>
+    <hours>M-F 10-7, Sat 10-6, Sun 12-5</hours>
+    <distance>0 feet</distance>
+    <website>http://bicyclebarn.services.officelive.com/default.aspx</website>
+    <wkt>-73.7380354 40.7094757</wkt>
+  </shop>
+  <shop id="91">
+    <name>Bellitte Bicycles</name>
+    <address>169-20 Jamaica Ave</address>
+    <address2></address2>
+    <boro>Jamaica</boro>
+    <phone>718-739-3795</phone>
+    <type>1</type>
+    <hours>Seasonal</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bellbikes.com</website>
+    <wkt>-73.790028 40.7069308</wkt>
+  </shop>
+  <shop id="92">
+    <name>Ride Brooklyn</name>
+    <address>468 Bergen St</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>347-599-1340</phone>
+    <type>3</type>
+    <hours>M-Thu 10-7, F 10-8, Sat 10-6, Sun 11-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.ridebrooklynny.com</website>
+    <wkt>-73.97597 40.680916</wkt>
+  </shop>
+  <shop id="93">
+    <name>Peak Mountain Bike Shop</name>
+    <address>42-42 235th Street</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-225-5119</phone>
+    <type>3</type>
+    <hours>Tues-Fri 11am-8pm, Sat 10am-6pm, Sun 11am-5pm, Mon - Closed</hours>
+    <distance>0 feet</distance>
+    <website>http://www.peakmtnbike.com</website>
+    <wkt>-73.7478428 40.767613</wkt>
+  </shop>
+  <shop id="94">
+    <name>Brooklyn Bike and Board</name>
+    <address>560 Vanderbilt Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>347-295-2339</phone>
+    <type>3</type>
+    <hours>Open 9am to 9pm, 7 days a week</hours>
+    <distance>0 feet</distance>
+    <website>http://www.brooklynbikeandboard.com</website>
+    <wkt>-73.968258 40.679884</wkt>
+  </shop>
+  <shop id="95">
+    <name>The Hub</name>
+    <address>73 Morton Street</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-965-9334</phone>
+    <type>3</type>
+    <hours>Everyday 10-8</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-74.007028 40.730934</wkt>
+  </shop>
+  <shop id="96">
+    <name>Adeline Adeline</name>
+    <address>147 Reade Street</address>
+    <address2></address2>
+    <boro>Manhatan</boro>
+    <phone>212-227-1150</phone>
+    <type>3</type>
+    <hours>Tue-Fri 12pm - Sundown, Sat-Sun 11am - Sundown</hours>
+    <distance>0 feet</distance>
+    <website>http://www.adelineadeline.com</website>
+    <wkt>-74.0098392963 40.7164360994</wkt>
+  </shop>
+  <shop id="97">
+    <name>Crooked Front Wheel (a guy on the street)</name>
+    <address>NE Corner of Houston and 2nd Ave</address>
+    <address2></address2>
+    <boro></boro>
+    <phone></phone>
+    <type>1</type>
+    <hours>During the summer, most of the day</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.990855 40.723798</wkt>
+  </shop>
+  <shop id="98">
+    <name>Spokesman Cycles</name>
+    <address>80-16 Cooper Avenue</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-366-0450</phone>
+    <type>3</type>
+    <hours>Mon-Sat 10AM-9PM ; Sun 11AM-8PM</hours>
+    <distance>0 feet</distance>
+    <website>http://www.spokesmancycles.com</website>
+    <wkt>-73.86954 40.70924</wkt>
+  </shop>
+  <shop id="99">
+    <name>Spokesman Cycles</name>
+    <address>34 Irving Place</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-995-0450</phone>
+    <type>3</type>
+    <hours>Open daily 10AM to 9PM</hours>
+    <distance>0 feet</distance>
+    <website>http://spokesmancycles.com</website>
+    <wkt>-73.987684 40.735299</wkt>
+  </shop>
+  <shop id="100">
+    <name>Bikes on Myrtle</name>
+    <address>478 Myrtle Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>347-788-0478</phone>
+    <type>1</type>
+    <hours>Everyday 10-7</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.9661 40.6933</wkt>
+  </shop>
+  <shop id="101">
+    <name>Bike and Roll Family Bike Center</name>
+    <address>Building 515,
+Hay Road</address>
+    <address2></address2>
+    <boro>Gov Island</boro>
+    <phone>212-260-0400</phone>
+    <type>2</type>
+    <hours>Friday: 10-4:30, Sat/Sun 10-6:30</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikeandroll.com/newyork/index.html</website>
+    <wkt>-74.019273 40.691914</wkt>
+  </shop>
+  <shop id="102">
+    <name>Bike and Roll Adult Bike Express</name>
+    <address>Pershing Hall, Andes Road</address>
+    <address2></address2>
+    <boro>Gov Island</boro>
+    <phone>212-260-0400</phone>
+    <type>2</type>
+    <hours>Friday: 10-4:30, Sat/Sun 10-6:30</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikeandroll.com/newyork/index.html</website>
+    <wkt>-74.013932 40.691324</wkt>
+  </shop>
+  <shop id="103">
+    <name>New Bo Bo Toys Co</name>
+    <address>96 Elizabeth Street</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-226-1668</phone>
+    <type>1</type>
+    <hours>9:00a - 8:00p (7 days/week)</hours>
+    <distance>0 feet</distance>
+    <website>http://newbobotoys.com/</website>
+    <wkt>-73.9958 40.71838</wkt>
+  </shop>
+  <shop id="104">
+    <name>NYC Bicycle Shop</name>
+    <address>1178 Bay Street </address>
+    <address2></address2>
+    <boro>Staten Island</boro>
+    <phone>718-569-0333</phone>
+    <type>3</type>
+    <hours>M-F 10-7, Sat 10-5, Sun 11-5</hours>
+    <distance>0 feet</distance>
+    <website>http://www.nycbicycleshop.com/</website>
+    <wkt>-74.066667 40.614357</wkt>
+  </shop>
+  <shop id="105">
+    <name>Zen Bikes</name>
+    <address>134 West 24 Street</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-929-2453</phone>
+    <type>1</type>
+    <hours>Mon-Sat 10-7, Sun 10-5</hours>
+    <distance>0 feet</distance>
+    <website>http://zenbikes.com/</website>
+    <wkt>-73.99389 40.74411</wkt>
+  </shop>
+  <shop id="106">
+    <name>Bike Life</name>
+    <address>56 Lincoln Rd</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>347-789-5607</phone>
+    <type>1</type>
+    <hours></hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.96099770000001 40.66090070000001</wkt>
+  </shop>
+  <shop id="107">
+    <name>Spin City Cycles</name>
+    <address>98-73 Queens Blvd</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-896-8850</phone>
+    <type>1</type>
+    <hours>Mon-Wed, 11-7, Thu-Fri 11-7:30, Sat-Sun 10-6</hours>
+    <distance>0 feet</distance>
+    <website>http://spincitycycle.com/</website>
+    <wkt>-73.85541 40.7278</wkt>
+  </shop>
+  <shop id="108">
+    <name>Bicycle Habitat</name>
+    <address>476 Fifth Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-788-2543</phone>
+    <type>1</type>
+    <hours>M-F 11a-8p, Sa 11a-7p, Su 12p-6p</hours>
+    <distance>0 feet</distance>
+    <website>http://bicyclehabitat.com</website>
+    <wkt>-73.98728 40.66815</wkt>
+  </shop>
+  <shop id="109">
+    <name>Bushwick Bike Shop</name>
+    <address>1345 Dekalb Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>347-405-7966</phone>
+    <type>1</type>
+    <hours>Open 12-8 everyday, except Tuesdays and Sundays</hours>
+    <distance>0 feet</distance>
+    <website>http://www.velobrooklyn.com</website>
+    <wkt>-73.924658 40.698555</wkt>
+  </shop>
+  <shop id="110">
+    <name>Bike and Roll</name>
+    <address>12th Avenue and 43rd street</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-260-0400</phone>
+    <type>2</type>
+    <hours>Everyday 9-7</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikeandroll.com/newyork/index.html</website>
+    <wkt>-73.993934 40.77184</wkt>
+  </shop>
+  <shop id="111">
+    <name>Bay Ridge Bicycle World</name>
+    <address>8916 3rd Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-238-1118</phone>
+    <type>1</type>
+    <hours>Everyday 10-8</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bayridgebikes.com</website>
+    <wkt>-74.03210200000001 40.62107</wkt>
+  </shop>
+  <shop id="112">
+    <name>Red Lantern</name>
+    <address>345 Myrtle Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>347-889-5338</phone>
+    <type>1</type>
+    <hours>Everyday 9-9</hours>
+    <distance>0 feet</distance>
+    <website>http://www.redlanternbicycles.com/</website>
+    <wkt>-73.97239880000001 40.6934188</wkt>
+  </shop>
+  <shop id="113">
+    <name>Bike and Roll</name>
+    <address>West 67th Street at Central Park West</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-260-0400</phone>
+    <type>2</type>
+    <hours>Mon-Sat 9-5, Sun 10-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikenewyorkcity.com/</website>
+    <wkt>-73.97682 40.77251</wkt>
+  </shop>
+  <shop id="114">
+    <name>Bike and Roll</name>
+    <address>At the southern end of West St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-260-0400</phone>
+    <type>2</type>
+    <hours>Various. See website.</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikenewyorkcity.com/</website>
+    <wkt>-74.01709 40.70442</wkt>
+  </shop>
+  <shop id="115">
+    <name>Eduardo's Bicycle Shop</name>
+    <address>2131 2nd Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>(212) 722-2808</phone>
+    <type>1</type>
+    <hours>Mon-Thu 10-7, Fri 10-6:30, Sun 10-5</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.94085459999997 40.7929006</wkt>
+  </shop>
+  <shop id="116">
+    <name>Silk Road Cycles</name>
+    <address>76 Franklin St</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-389-2222</phone>
+    <type>1</type>
+    <hours>Mon-Sat 11-7, Sun 12-7</hours>
+    <distance>0 feet</distance>
+    <website>http://www.silkroadcycles.net/</website>
+    <wkt>-73.95689800000002 40.72720289999999</wkt>
+  </shop>
+  <shop id="117">
+    <name>Central Park Sightseeing</name>
+    <address>56 West 56th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-975-0785</phone>
+    <type>2</type>
+    <hours>Everyday 8-8</hours>
+    <distance>0 feet</distance>
+    <website>http://www.centralparksightseeing.com</website>
+    <wkt>-73.977082 40.763143</wkt>
+  </shop>
+  <shop id="118">
+    <name>Innovation Bike Shop</name>
+    <address>105 W 106th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>(212) 678-7130</phone>
+    <type>3</type>
+    <hours>Mon-Fri 10-8, Sat-Sun 10-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.innovationbikeshop.com</website>
+    <wkt>-73.96314999999998 40.7995734</wkt>
+  </shop>
+  <shop id="119">
+    <name>Master Bike Shop</name>
+    <address>265 West 72nd St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>(212) 580-2355</phone>
+    <type>3</type>
+    <hours></hours>
+    <distance>0 feet</distance>
+    <website>http://www.masterbikeshop.com/</website>
+    <wkt>-73.98403769999999 40.7796434</wkt>
+  </shop>
+  <shop id="120">
+    <name>City Bicycles</name>
+    <address>315 W 38th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-563-3373</phone>
+    <type>3</type>
+    <hours>Mon-Fri 9-6:30, Sat 10-5, Closed Sun</hours>
+    <distance>0 feet</distance>
+    <website>http://www.citybicyclesnyc.com/</website>
+    <wkt>-73.992157 40.755092</wkt>
+  </shop>
+  <shop id="121">
+    <name>Chari &amp; Co NYC</name>
+    <address>175 Stanton St</address>
+    <address2>Ground Floor East</address2>
+    <boro>Manhattan</boro>
+    <phone>212-475-0102</phone>
+    <type>3</type>
+    <hours>Mon-Sat 11-7, Sun 12-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.chariandconyc.com</website>
+    <wkt>-73.98421910000002 40.7200992</wkt>
+  </shop>
+  <shop id="122">
+    <name>Landmark Vintage Bicycles</name>
+    <address>136 East 3rd</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>(212) 674-2343</phone>
+    <type>1</type>
+    <hours></hours>
+    <distance>0 feet</distance>
+    <website>http://landmarkbicycles.com</website>
+    <wkt>-73.9855996 40.7237683</wkt>
+  </shop>
+  <shop id="123">
+    <name>Hudson Urban Bicycles</name>
+    <address>139 Charles St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-965-9334</phone>
+    <type>3</type>
+    <hours>Mon-Sat 9-7, Sun 10-7</hours>
+    <distance>0 feet</distance>
+    <website>http://hudsonurbanbicycles.com/</website>
+    <wkt>-74.00816299999997 40.7342313</wkt>
+  </shop>
+  <shop id="124">
+    <name>Central Park Bicycle Shop</name>
+    <address>315 West 57th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>(212) 315 - 2610</phone>
+    <type>1</type>
+    <hours></hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.98390799999999 40.767087</wkt>
+  </shop>
+  <shop id="125">
+    <name>Eastern Mountain Sports</name>
+    <address>530 Broadway</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-966-8730</phone>
+    <type>1</type>
+    <hours>Mon-Fri 10-9:30, Sat 10-9, Sun 11-8</hours>
+    <distance>0 feet</distance>
+    <website>http://www.ems.com</website>
+    <wkt>-73.99862250000001 40.7230775</wkt>
+  </shop>
+  <shop id="126">
+    <name>Eastern Mountain Sports</name>
+    <address>2152 Broadway</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>(212) 873-4001 </phone>
+    <type>1</type>
+    <hours>Mon-Sat 10-9, Sun 11-8</hours>
+    <distance>0 feet</distance>
+    <website>http://www.ems.com</website>
+    <wkt>-73.98103309999999 40.78146479999999</wkt>
+  </shop>
+  <shop id="127">
+    <name>REI</name>
+    <address>The Puck Building</address>
+    <address2>303 Lafayette Street</address2>
+    <boro>Manhattan</boro>
+    <phone>(212) 680-1938</phone>
+    <type>1</type>
+    <hours>Mon-Sat 10-9, Sun 11-8</hours>
+    <distance>0 feet</distance>
+    <website>http://www.rei.com/stores/142</website>
+    <wkt>-73.99539909999999 40.724506</wkt>
+  </shop>
+  <shop id="128">
+    <name>Al's Cycle Solutions</name>
+    <address>693 10th Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>(212) 247-3300</phone>
+    <type>3</type>
+    <hours>Mon-Sat 10-7, Sun 11-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.alscyclesolutions.com</website>
+    <wkt>-73.99320130000001 40.7631382</wkt>
+  </shop>
+  <shop id="129">
+    <name>Echelon Cycles</name>
+    <address>51 8th Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-206-7656</phone>
+    <type>3</type>
+    <hours>Mon-Fri 10-7, Sat 9-7, Sun 10-5</hours>
+    <distance>0 feet</distance>
+    <website>http://www.echeloncyclesnyc.com/</website>
+    <wkt>-74.00390679999998 40.7383931</wkt>
+  </shop>
+  <shop id="130">
+    <name>Swim Bike Run</name>
+    <address>203 W 58th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>(212) 399-3999</phone>
+    <type>1</type>
+    <hours>Mon-Sat 9-8, Sun 11-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.sbrshop.com</website>
+    <wkt>-73.9798156 40.7663305</wkt>
+  </shop>
+  <shop id="131">
+    <name>Bike Rental Central Park</name>
+    <address>348 W 57 St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-664-9600 </phone>
+    <type>2</type>
+    <hours>Everyday 7:30AM-Midnight</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikerentalcentralpark.com/</website>
+    <wkt>-73.9850424 40.7675391</wkt>
+  </shop>
+  <shop id="132">
+    <name>Dah Shop</name>
+    <address>134 Division St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-925-0155</phone>
+    <type>1</type>
+    <hours>Mon-Sat 11-7, Sun 12-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.dahshop.com/</website>
+    <wkt>-73.99174110000001 40.7145297</wkt>
+  </shop>
+  <shop id="133">
+    <name>NYC Bicycle Shop</name>
+    <address>250 West 49th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-655-9629</phone>
+    <type>3</type>
+    <hours>Everyday 8:30-8</hours>
+    <distance>0 feet</distance>
+    <website>http://www.nycbicycleshop.com/</website>
+    <wkt>-73.9859407 40.7613027</wkt>
+  </shop>
+  <shop id="134">
+    <name>Bike Stop</name>
+    <address>37-19 28th Ave</address>
+    <address2></address2>
+    <boro>Astoria</boro>
+    <phone>718-278-2453</phone>
+    <type>1</type>
+    <hours>Everyday 10-6</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikestopastoria.com</website>
+    <wkt>-73.91401280000002 40.7656581</wkt>
+  </shop>
+  <shop id="135">
+    <name>Bill's Cyclery</name>
+    <address>63-24 Roosevelt Ave</address>
+    <address2></address2>
+    <boro>Woodside</boro>
+    <phone>718-335-1906</phone>
+    <type>1</type>
+    <hours>Mon-Fri 10-7, Sat 10-6, Sun 11-3</hours>
+    <distance>0 feet</distance>
+    <website>http://ubuybikes.com/</website>
+    <wkt>-73.90024599999998 40.745793</wkt>
+  </shop>
+  <shop id="136">
+    <name>L.I.C. Bicycles</name>
+    <address>25-11 Queens Plaza</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>(718) 472-4537</phone>
+    <type>3</type>
+    <hours>Mon-Fri 9:15-7, Sat 10-6, Closed Sun</hours>
+    <distance>0 feet</distance>
+    <website>http://longislandcitybikes.wordpress.com/</website>
+    <wkt>-73.93950510000002 40.7506568</wkt>
+  </shop>
+  <shop id="137">
+    <name>Cigi Bicycle Shop</name>
+    <address>91-07 37th Ave</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-717-2377</phone>
+    <type>1</type>
+    <hours>M-Sat 10:30-7, Sat 10-7, Sun 11-4</hours>
+    <distance>0 feet</distance>
+    <website>http://cigibicycleshop.com</website>
+    <wkt>-73.87560659999997 40.7507745</wkt>
+  </shop>
+  <shop id="138">
+    <name>PM Bikes</name>
+    <address>92-64 Queens Blvd</address>
+    <address2></address2>
+    <boro>Queens</boro>
+    <phone>718-478-3338</phone>
+    <type>1</type>
+    <hours>Everyday 10-5:30</hours>
+    <distance>0 feet</distance>
+    <website>http://pmbicycles.com</website>
+    <wkt>-73.86740279999998 40.7320539</wkt>
+  </shop>
+  <shop id="139">
+    <name>ADT Bike and Skate Shop</name>
+    <address>114-01 Jamaica Ave</address>
+    <address2></address2>
+    <boro>Richmond Hill</boro>
+    <phone>718-846-2099</phone>
+    <type>1</type>
+    <hours>Call for hours</hours>
+    <distance>0 feet</distance>
+    <website>http://www.adtbikes.com/</website>
+    <wkt>-73.84529629999997 40.69517829999999</wkt>
+  </shop>
+  <shop id="140">
+    <name>Mini Mall Bike Shop</name>
+    <address>430 Beach 129th Street</address>
+    <address2></address2>
+    <boro>Far Rockaway</boro>
+    <phone>(718) 945-6787</phone>
+    <type>1</type>
+    <hours></hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.849086 40.577333</wkt>
+  </shop>
+  <shop id="141">
+    <name>Bicycle Repairman</name>
+    <address>40-21a 35th Ave</address>
+    <address2></address2>
+    <boro>Astoria</boro>
+    <phone>718-706-0450</phone>
+    <type>1</type>
+    <hours></hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.91983800000003 40.754236</wkt>
+  </shop>
+  <shop id="142">
+    <name>Bike Doctor NYC / Bike Rental Manhattan</name>
+    <address>186 W 134th St</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>(888) 600-1248</phone>
+    <type>3</type>
+    <hours>by appointment only - we'll come to you</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikerentalmanhattan.com/</website>
+    <wkt>-73.943541 40.814099</wkt>
+  </shop>
+  <shop id="143">
+    <name>Fulton Bikes</name>
+    <address>997 Fulton St</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-638-BIKE (2453)</phone>
+    <type>3</type>
+    <hours>Mon-Thur 10-8:30, Fri-Sat 10-7:30, Sun 12-5</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.96297370000002 40.6827902</wkt>
+  </shop>
+  <shop id="144">
+    <name>Central Park Bikes</name>
+    <address>60th St and Broadway</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>210-220-5645</phone>
+    <type>3</type>
+    <hours>Everyday 9-7</hours>
+    <distance>0 feet</distance>
+    <website>http://centralparkbikes.com</website>
+    <wkt>-73.98198990000003 40.7688468</wkt>
+  </shop>
+  <shop id="145">
+    <name>Danny's Cycles</name>
+    <address>1690 2nd Ave</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-722-2201</phone>
+    <type>1</type>
+    <hours>Mon-Fri 10-8, Sat-Sun 10-7</hours>
+    <distance>0 feet</distance>
+    <website>www.dannyscycles.com</website>
+    <wkt>-73.9509151 40.778603</wkt>
+  </shop>
+  <shop id="146">
+    <name>Chcycles</name>
+    <address>537 Empire Blvd </address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-484-0943</phone>
+    <type>3</type>
+    <hours>Sun-Thu 10-8, Fri 10-1, Closed Sat</hours>
+    <distance>0 feet</distance>
+    <website>http://www.chcycles.com</website>
+    <wkt>-73.94439869999997 40.6642976</wkt>
+  </shop>
+  <shop id="147">
+    <name>Bike Smith</name>
+    <address>149 Smith St</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>347-689-3345</phone>
+    <type>3</type>
+    <hours>Mon-Sat 9-9, Sun 9-5 (or so)</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.99044679999997 40.6865996</wkt>
+  </shop>
+  <shop id="148">
+    <name></name>
+    <address>1078 Fulton Street</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718 668 5224</phone>
+    <type>1</type>
+    <hours></hours>
+    <distance>0 feet</distance>
+    <website> http://www.facebook.com/BicycleRoots</website>
+    <wkt>-73.95769989999997 40.6815564</wkt>
+  </shop>
+  <shop id="149">
+    <name>Dog Day Cyclery</name>
+    <address>115 Van Brunt Street</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>347-799-2739</phone>
+    <type>3</type>
+    <hours>Tue-Sat 10-6, Sun 10-4, Mon 10-8</hours>
+    <distance>0 feet</distance>
+    <website>http://dogdaycyclery.com</website>
+    <wkt>-74.0052331 40.6846574</wkt>
+  </shop>
+  <shop id="150">
+    <name>Bike Slug</name>
+    <address>1050 Bedford Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-247-7347</phone>
+    <type>1</type>
+    <hours>Mon, Wed, Thur, Fri 11-9, Sat, Sun 10-6, Closed Tue</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikeslug.com/store.html</website>
+    <wkt>-73.95533 40.689003</wkt>
+  </shop>
+  <shop id="151">
+    <name>Paul's Bicycle Shop</name>
+    <address>163 Beach 116th St</address>
+    <address2></address2>
+    <boro>Rockaway Beach</boro>
+    <phone>718-318-2000</phone>
+    <type>3</type>
+    <hours>M-F 10-7, Sat 10-5, Closed Sun</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.83694880000002 40.5790763</wkt>
+  </shop>
+  <shop id="152">
+    <name>Rolling Orange Bikes</name>
+    <address>269 Baltic Street</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-935-0695</phone>
+    <type>3</type>
+    <hours>closed Mon, Tue-Fri 12:30-7:30, 11-7:30 Sat-Sun</hours>
+    <distance>0 feet</distance>
+    <website>http://www.rollingorangebikes.com/</website>
+    <wkt>-73.99382 40.685731</wkt>
+  </shop>
+  <shop id="153">
+    <name>Elias Bicycle Shop</name>
+    <address>39-24 108th St</address>
+    <address2></address2>
+    <boro>Corona</boro>
+    <phone>347-776-6797</phone>
+    <type>1</type>
+    <hours></hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.858833 40.7506856</wkt>
+  </shop>
+  <shop id="154">
+    <name>Excelsior Bike Shop</name>
+    <address>694 Franklin Ave</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-789-2502</phone>
+    <type>1</type>
+    <hours>M-F 10:30-7, Sat 10-6, Sun 11-5</hours>
+    <distance>0 feet</distance>
+    <website>http://www.9thstreetcycles.com</website>
+    <wkt>-73.95675699999998 40.674751</wkt>
+  </shop>
+  <shop id="155">
+    <name>9th St Cycles</name>
+    <address>375 9th Street</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-768-2453</phone>
+    <type>3</type>
+    <hours>M-F 10:30-7, Sat 10-6, Sun 11-5</hours>
+    <distance>0 feet</distance>
+    <website>http://www.9thstreetcycles.com/</website>
+    <wkt>-73.9839895 40.6682443</wkt>
+  </shop>
+  <shop id="156">
+    <name>Papillionaire Bicycles</name>
+    <address>390 Van Brunt St</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-422-0787</phone>
+    <type>1</type>
+    <hours>Tue, Thu-Sun 12-6, Closed other days</hours>
+    <distance>0 feet</distance>
+    <website>http://www.papillionaire.com</website>
+    <wkt>-74.01366589999998 40.6767036</wkt>
+  </shop>
+  <shop id="157">
+    <name>Zukkies Bike Shop</name>
+    <address>279 Bushwick Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>(718) 456-0048</phone>
+    <type>1</type>
+    <hours></hours>
+    <distance>0 feet</distance>
+    <website>http://zukkies.com</website>
+    <wkt>-73.9395285 40.706479</wkt>
+  </shop>
+  <shop id="158">
+    <name>Bike Ahead</name>
+    <address>386 Broadway</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-387-1030</phone>
+    <type>1</type>
+    <hours>Sun-Thur 10-7</hours>
+    <distance>0 feet</distance>
+    <website></website>
+    <wkt>-73.95474100000001 40.7071881</wkt>
+  </shop>
+  <shop id="159">
+    <name>Ride Brooklyn Williamsburg</name>
+    <address>50 N 7th St</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-387-2453</phone>
+    <type>1</type>
+    <hours>M-F 10-7, Sat 10-6, Sun 11-6</hours>
+    <distance>0 feet</distance>
+    <website>http://ridebrooklynny.com</website>
+    <wkt>-73.96211970000002 40.7205573</wkt>
+  </shop>
+  <shop id="160">
+    <name>Juice Pedaler</name>
+    <address>154 Prospect Park Southwest</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-871-7500</phone>
+    <type>3</type>
+    <hours>Sun-Thur 8-6, Fri-Sat 8-7</hours>
+    <distance>0 feet</distance>
+    <website>https://store.juicepedalernyc.com/</website>
+    <wkt>-73.97370999999998 40.654881</wkt>
+  </shop>
+  <shop id="161">
+    <name>Redbeard Bikes</name>
+    <address>165 Front Street</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone> 718-858-2453</phone>
+    <type>1</type>
+    <hours>Mon-Tue 12-8, Thur-Fri 11-7, Sat-Sun 11-6, Closed Wed</hours>
+    <distance>0 feet</distance>
+    <website>http://redbeardbikes.com/</website>
+    <wkt>-73.98664810000002 40.7024365</wkt>
+  </shop>
+  <shop id="162">
+    <name>Talent Cycles</name>
+    <address>502 W 139th St</address>
+    <address2></address2>
+    <boro>New York</boro>
+    <phone>212-368-5609</phone>
+    <type>3</type>
+    <hours>Everyday 10-8</hours>
+    <distance>0 feet</distance>
+    <website>http://talentcyclesny.com/</website>
+    <wkt>-73.9507625 40.8215347</wkt>
+  </shop>
+  <shop id="163">
+    <name>Bicycle Roots</name>
+    <address>609 Nostrand Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-668-5224</phone>
+    <type>1</type>
+    <hours>Tue-Fri 10-7, Sat 11-6, Sun 11-5, Closed Mon</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bicycleroots.com</website>
+    <wkt>-73.94961 40.676344</wkt>
+  </shop>
+  <shop id="164">
+    <name>Bikesmith II</name>
+    <address>667 Grand St</address>
+    <address2></address2>
+    <boro>New York</boro>
+    <phone>347-689-9929</phone>
+    <type>1</type>
+    <hours></hours>
+    <distance>0 feet</distance>
+    <website>https://www.facebook.com/pages/Bikesmith-II/121743514675682</website>
+    <wkt>-73.9458598 40.7115458</wkt>
+  </shop>
+  <shop id="165">
+    <name>Bushwick Bicycles</name>
+    <address>308 Irving Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-366-2804</phone>
+    <type>1</type>
+    <hours>M-Sat 9:30-7, Sun 9:30-5:30</hours>
+    <distance>0 feet</distance>
+    <website>http://bushwickbicycleshop.webs.com/</website>
+    <wkt>-73.914311 40.698743</wkt>
+  </shop>
+  <shop id="166">
+    <name>Bike and Roll</name>
+    <address>Riverside Drive and W 70th Street</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-260-0400</phone>
+    <type>2</type>
+    <hours>Closed for the winter season</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikenewyorkcity.com/</website>
+    <wkt>-73.98863911628723 40.779826511063796</wkt>
+  </shop>
+  <shop id="167">
+    <name>Bike and Roll</name>
+    <address>Old Fulton Street</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>212-260-0400</phone>
+    <type>2</type>
+    <hours>Closed for the winter season</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikenewyorkcity.com/</website>
+    <wkt>-73.99485111236572 40.70310659483828</wkt>
+  </shop>
+  <shop id="168">
+    <name>Bike and Roll</name>
+    <address>Hudson River Greenway and W. 135th Street</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-260-0400</phone>
+    <type>2</type>
+    <hours>Closed for the winter season</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikenewyorkcity.com/</website>
+    <wkt>-73.95879149436949 40.82165267333597</wkt>
+  </shop>
+  <shop id="169">
+    <name>Bike and Roll</name>
+    <address>East River Greenway (bwn Houston and E. 6th St)</address>
+    <address2></address2>
+    <boro>Manhattan</boro>
+    <phone>212-260-0400</phone>
+    <type>2</type>
+    <hours>Closed for the winter season</hours>
+    <distance>0 feet</distance>
+    <website>http://www.bikenewyorkcity.com/</website>
+    <wkt>-73.97446632385254 40.72037995010057</wkt>
+  </shop>
+  <shop id="170">
+    <name>Larry's Freewheeling</name>
+    <address>301 Cathedral Parkway</address>
+    <address2></address2>
+    <boro>New York</boro>
+    <phone>212-280-7800</phone>
+    <type>3</type>
+    <hours></hours>
+    <distance>0 feet</distance>
+    <website>http://www.larrysfreewheeling.com/</website>
+    <wkt>-73.9580497 40.8010904</wkt>
+  </shop>
+  <shop id="171">
+    <name>Bespoke Bicycles</name>
+    <address>64 Lafayette Avenue</address>
+    <address2></address2>
+    <boro>Brooklyn</boro>
+    <phone>718-643-6816</phone>
+    <type>1</type>
+    <hours>Tue 2-6, Wed-Mon 10-6</hours>
+    <distance>0 feet</distance>
+    <website>http:\www.bespoke-bicycles.com</website>
+    <wkt>-73.975349 40.686983</wkt>
+  </shop>
+</bikeshops>
