@@ -3,133 +3,133 @@
     "name": "Jackson Avenue and 50 Avenue, Queens",
     "address": "Jackson Avenue and 50 Avenue, Queens, NY",
     "isRack": false,
-    "latitude": -73.952728,
-    "longitude": 40.742458
+    "longitude": -73.952728,
+    "latitude": 40.742458
   },
   {
     "name": "East 17 Street and Broadway, Manhattan",
     "address": "East 17 Street and Broadway, Manhattan, NY",
     "isRack": false,
-    "latitude": -73.990341,
-    "longitude": 40.73695
+    "longitude": -73.990341,
+    "latitude": 40.73695
   },
   {
     "name": "East Kingsbridge Road and Briggs Avenue, Bronx",
     "address": "East Kingsbridge Road and Briggs Avenue, Bronx, NY",
     "isRack": false,
-    "latitude": -73.894196,
-    "longitude": 40.86306
+    "longitude": -73.894196,
+    "latitude": 40.86306
   },
   {
     "name": "Dekalb Avenue and Flatbush Avenue, Brooklyn",
     "address": "Dekalb Avenue and Flatbush Avenue, Brooklyn, NY",
     "isRack": false,
-    "latitude": -73.9814,
-    "longitude": 40.689873
+    "longitude": -73.9814,
+    "latitude": 40.689873
   },
   {
     "name": "West 23 Street and 6 Avenue, Manhattan",
     "address": "West 23 Street and 6 Avenue, Manhattan, NY",
     "isRack": false,
-    "latitude": -73.992767,
-    "longitude": 40.74279
+    "longitude": -73.992767,
+    "latitude": 40.74279
   },
   {
     "name": "Grand Concourse and East Tremont Avenue, Bronx",
     "address": "Grand Concourse and East Tremont Avenue, Bronx, NY",
     "isRack": false,
-    "latitude": -73.906067,
-    "longitude": 40.849636
+    "longitude": -73.906067,
+    "latitude": 40.849636
   },
   {
     "name": "31 Street and 30 Avenue, Queens",
     "address": "31 Street and 30 Avenue, Queens, NY",
     "isRack": false,
-    "latitude": -73.921471,
-    "longitude": 40.766827
+    "longitude": -73.921471,
+    "latitude": 40.766827
   },
   {
     "name": "Graham Avenue and Metropolitan Avenue, Brooklyn",
     "address": "Graham Avenue and Metropolitan Avenue, Brooklyn, NY",
     "isRack": false,
-    "latitude": -73.94445,
-    "longitude": 40.714535
+    "longitude": -73.94445,
+    "latitude": 40.714535
   },
   {
     "name": "Lefferts Boulevard and Liberty Avenue, Queens",
     "address": "Lefferts Boulevard and Liberty Avenue, Queens, NY",
     "isRack": false,
-    "latitude": -73.824081,
-    "longitude": 40.686161
+    "longitude": -73.824081,
+    "latitude": 40.686161
   },
   {
     "name": "4 Avenue and 36 Street, Brooklyn",
     "address": "4 Avenue and 36 Street, Brooklyn, NY",
     "isRack": false,
-    "latitude": -74.004272,
-    "longitude": 40.654236
+    "longitude": -74.004272,
+    "latitude": 40.654236
   },
   {
     "name": "Kings Highway and East 15 Street, Brooklyn",
     "address": "Kings Highway and East 15 Street, Brooklyn, NY",
     "isRack": false,
-    "latitude": -73.95826,
-    "longitude": 40.608791
+    "longitude": -73.95826,
+    "latitude": 40.608791
   },
   {
     "name": "West 33 Street and 8 Avenue, Manhattan",
     "address": "West 33 Street and 8 Avenue, Manhattan, NY",
     "isRack": false,
-    "latitude": -73.993942,
-    "longitude": 40.751404
+    "longitude": -73.993942,
+    "latitude": 40.751404
   },
   {
     "name": "West 23 Street and 8 Avenue, Manhattan",
     "address": "West 23 Street and 8 Avenue, Manhattan, NY",
     "isRack": false,
-    "latitude": -73.998398,
-    "longitude": 40.745289
+    "longitude": -73.998398,
+    "latitude": 40.745289
   },
   {
     "name": "Surf Avenue and Stillwell Avenue, Brooklyn",
     "address": "Surf Avenue and Stillwell Avenue, Brooklyn, NY",
     "isRack": false,
-    "latitude": -73.981148,
-    "longitude": 40.575638
+    "longitude": -73.981148,
+    "latitude": 40.575638
   },
   {
     "name": "Rutgers Street and East Broadway, Manhattan",
     "address": "Rutgers Street and East Broadway, Manhattan, NY",
     "isRack": false,
-    "latitude": -73.990273,
-    "longitude": 40.713943
+    "longitude": -73.990273,
+    "latitude": 40.713943
   },
   {
     "name": "Dyckman Street and Broadway, Manhattan",
     "address": "Dyckman Street and Broadway, Manhattan, NY",
     "isRack": false,
-    "latitude": -73.927322,
-    "longitude": 40.865528
+    "longitude": -73.927322,
+    "latitude": 40.865528
   },
   {
     "name": "71 Avenue and Austin Street, Forest Hills, Queens",
     "address": "71 Avenue and Austin Street, Forest Hills, Queens, NY",
     "isRack": false,
-    "latitude": -73.844688,
-    "longitude": 40.720097
+    "longitude": -73.844688,
+    "latitude": 40.720097
   },
   {
     "name": "Eltingville Transit Center, Staten Island",
     "address": "Eltingville Transit Center, Staten Island, NY",
     "isRack": false,
-    "latitude": -74.169891,
-    "longitude": 40.560261
+    "longitude": -74.169891,
+    "latitude": 40.560261
   },
   {
     "name": "Father Capodanno Boulevard, Staten Island",
     "address": "Father Capodanno Boulevard, Staten Island, NY",
     "isRack": false,
-    "latitude": -74.066162,
-    "longitude": 40.59052
+    "longitude": -74.066162,
+    "latitude": 40.59052
   }
 ]

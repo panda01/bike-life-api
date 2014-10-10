@@ -30,7 +30,8 @@ class StoresController < ApplicationController
     # Load stores from DB
     store_geo.loadFromDb()
     store_geo.loadFromFoursquare()
-    @stores = store_geo.stores[:db] + store_geo.stores[:foursquare]
+    @stores = store_geo.stores[:db]
+#    @stores = store_geo.stores[:db] + store_geo.stores[:foursquare]
 
   end
 
