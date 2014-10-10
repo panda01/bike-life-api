@@ -28,10 +28,11 @@ class StoresController < ApplicationController
     store_geo = Geo.new(params[:ne], params[:sw])
     
     # Load stores from DB
+    store_geo.checkFoursquare()
     store_geo.loadFromDb()
-    store_geo.loadFromFoursquare()
+#    @stores = store_geo.stores[:db]
+    puts @stores
     @stores = store_geo.stores[:db]
-#    @stores = store_geo.stores[:db] + store_geo.stores[:foursquare]
 
   end
 
@@ -65,36 +66,39 @@ class Geo
   end
 
   def loadFromDb
-    puts @sw[:lat]
     @stores[:db] = Store.where(:latitude => @sw[:lat]..@ne[:lat], :longitude => @sw[:lng]..@ne[:lng])
   end
 
-  def mergeFoursquareDb
-    merged = []
-    @stores[:db].each do |venue|
-      if (@stores[:foursquareKeys][venue.foursquare_id])
-        puts 'Removed a duplicate key'
-        @stores[:foursquareKeys].delete(venue.foursquare_id)
+  def addNewFoursquarePlacesToDb(fs_items)
+    err = 0
+    fs_items.each do |venue|
+      # TODO I could add a cache so we don't try to insert dupes
+      begin
+        @store = Store.create(venue)
+      rescue => exception
+        puts "Error adding foursquare venue #{exception}"
+        err += 1
       end
     end
-    @stores[:merged] = @stores[:db] + @stores[:foursquareKeys].values
+    puts "Completed with #{err} errors"
   end
 
-  # returns hash where key is Foursquare PlaceID
+  # Returns array of store schema hashes
   def formatFoursquare(stores)
-    formatted = {}
-    puts stores[:venues][0]
+    formatted = []
     stores[:venues].each do |venue|
       # TODO Is there a more compact way to pluck certain fields from an object?
-      storeObj = {:id => venue.id, :name => venue.name, :phone => venue.contact.formattedPhone, :address => venue.location.address, :foursquare_id => venue.id, :hours => venue.hours, :latitude => venue.location.lat, :longitude => venue.location.lng, :website => venue.url }
+      storeObj = {:name => venue.name, :phone => venue.contact.formattedPhone, :address => venue.location.address, :foursquare_id => venue.id, :hours => venue.hours, :latitude => venue.location.lat, :longitude => venue.location.lng, :website => venue.url }
       storeObj[:storetype] = venue.categories[0].id == '4e4c9077bd41f78e849722f9' ? 2 : 1 
-      formatted[venue.id] = storeObj
+      formatted.push(storeObj)
     end
-    @stores[:foursquareKeys] = formatted
-    @stores[:foursquare] = formatted.values
+    return formatted
   end
 
-  def loadFromFoursquare
+  # 1. Calls Foursquare bounded by NE & SW
+  # 2. Formats results into DB schema
+  # 3. Tries to insert into DB (fails on dupe foursquare ID)
+  def checkFoursquare
     fs_client = Foursquare2::Client.new(:client_id => FOURSQUARE['client_id'], :client_secret => FOURSQUARE['client_secret'], :intent => 'browse', :api_version => '20140806')
 
     options = { :ne => @ne[:lat] + ',' + @ne[:lng], :sw => @sw[:lat] + ',' + @sw[:lng] }
@@ -102,7 +106,8 @@ class Geo
     options[:categoryId] = '4bf58dd8d48988d115951735,4e4c9077bd41f78e849722f9'
 
     fs_stores = fs_client.search_venues(options)
-    formatFoursquare(fs_stores)
+    formatted_stores = formatFoursquare(fs_stores)
+    addNewFoursquarePlacesToDb(formatted_stores)
   end
 
   attr_reader :stores

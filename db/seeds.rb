@@ -13,9 +13,17 @@ def importFromFile(type, json_hash)
   idx = 0
   len = json_hash.length
   json_hash.each do |arr|
-    type.create(arr)
-    idx += 1
-    puts "Added #{idx}/#{len}"
+    # this is for jason, remove for prod
+    if idx > 500
+      break
+    end
+    begin
+      type.create(arr)
+      idx += 1
+      puts "Added #{idx}/#{len}"
+    rescue => exception
+      puts "Error #{exception}"
+    end
   end
 end
 
