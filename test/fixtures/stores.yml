@@ -4,7 +4,7 @@ one:
   name: MyString
   address: MyString
   boro: MyString
-  type: 1
+  storetype: 1
   hours: MyString
   website: MyString
   latitude: 1.5
@@ -14,7 +14,7 @@ two:
   name: MyString
   address: MyString
   boro: MyString
-  type: 1
+  storetype: 1
   hours: MyString
   website: MyString
   latitude: 1.5

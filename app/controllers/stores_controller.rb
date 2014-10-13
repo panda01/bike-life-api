@@ -1,5 +1,5 @@
 class StoresController < ApplicationController
-  before_action :set_store, only: [:show, :edit, :update, :destroy]
+  before_action :set_store, only: [:show]
 
   include Foursquare2 
 
@@ -18,10 +18,15 @@ class StoresController < ApplicationController
   def geo
     store_geo = Geo.new(params[:ne], params[:sw], Store)
     
-    # Load stores from DB
     store_geo.checkFoursquare()
     store_geo.loadFromDb()
     @stores = store_geo.results
   end
+
+  private
+    def set_store
+      @store = Store.find(params[:id])
+    end
+
 end
 

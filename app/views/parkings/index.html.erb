@@ -4,10 +4,8 @@
   <thead>
     <tr>
       <th>Name</th>
-      <th>Phone</th>
       <th>Israck</th>
       <th>Racks</th>
-      <th>Hours</th>
       <th>Lat</th>
       <th>Lng</th>
       <th>Address</th>
@@ -19,21 +17,14 @@
     <% @parkings.each do |parking| %>
       <tr>
         <td><%= parking.name %></td>
-        <td><%= parking.phone %></td>
         <td><%= parking.isRack %></td>
         <td><%= parking.racks%></td>
-        <td><%= parking.hours %></td>
         <td><%= parking.latitude %></td>
         <td><%= parking.longitude %></td>
         <td><%= parking.address %></td>
         <td><%= link_to 'Show', parking %></td>
-        <td><%= link_to 'Edit', edit_parking_path(parking) %></td>
-        <td><%= link_to 'Destroy', parking, method: :delete, data: { confirm: 'Are you sure?' } %></td>
       </tr>
     <% end %>
   </tbody>
 </table>
 
-<br>
-
-<%= link_to 'New Parking', new_parking_path %>

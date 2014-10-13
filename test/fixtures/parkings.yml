@@ -4,15 +4,15 @@ rack:
   name: "1 7 AV S"
   address: "1 7 AV S, New York, NY 10014, USA"
   isRack: true
-  longitude: -74.04
   latitude: 40.72
+  longitude: -74.04
   racks: 5
 
 shelter:
   name: "West 33 Street and 8 Avenue, Manhattan"
   address: "West 33 Street and 8 Avenue, Manhattan, NY"
   isRack: false,
-  longitude: -73.99
   latitude: 40.75
+  longitude: -73.99
 
 
