@@ -17,6 +17,9 @@ class Geo
   # 2. Formats results into DB schema
   # 3. Tries to insert into DB (fails on dupe foursquare ID)
   def checkFoursquare
+    if @class_type != Store
+      raise "Should only check Foursquare for Store model class"
+    end
     fs_client = Foursquare2::Client.new(:client_id => FOURSQUARE['client_id'], :client_secret => FOURSQUARE['client_secret'], :intent => 'browse', :api_version => '20140806')
 
     options = { :ne => @ne[:lat] + ',' + @ne[:lng], :sw => @sw[:lat] + ',' + @sw[:lng] }
