@@ -1,13 +1,18 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
-  phone: MyString
-  isRack: false
-  hours: MyString
+rack:
+  name: "1 7 AV S"
+  address: "1 7 AV S, New York, NY 10014, USA"
+  isRack: true
+  longitude: -74.04
+  latitude: 40.72
+  racks: 5
 
-two:
-  name: MyString
-  phone: MyString
-  isRack: false
-  hours: MyString
+shelter:
+  name: "West 33 Street and 8 Avenue, Manhattan"
+  address: "West 33 Street and 8 Avenue, Manhattan, NY"
+  isRack: false,
+  longitude: -73.99
+  latitude: 40.75
+
+
